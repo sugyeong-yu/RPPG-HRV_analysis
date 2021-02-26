@@ -5,6 +5,16 @@
 # Result
 - 계열1(파란) : Cppg(p400)
 - 계열2(주황) : Rppg(web-cam)
+- Data
+  - 1.lf
+  - 2.hf	
+  - 3.lf_hf_ratio	
+  - 4.lfnu	
+  - 5.hfnu	
+  - 6.total_power	
+  - 7.vlf	
+  - 8.num
+
 ## Before Data shift
 1. 김나혜
 <img src="https://user-images.githubusercontent.com/70633080/109270154-f9e23380-7850-11eb-9fd4-1f5b2b1363da.png" width=80% height=80%>

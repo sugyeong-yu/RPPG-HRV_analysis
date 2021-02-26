@@ -55,3 +55,7 @@
 3. 김소의
 4. 이승건
 <img src="https://user-images.githubusercontent.com/70633080/109287024-61ef4480-7866-11eb-8783-c27f8457ed5e.png" width=80% height=80%>
+5. 목지원
+6. 한나연
+<img src="https://user-images.githubusercontent.com/70633080/109287746-594b3e00-7867-11eb-9840-5e22ae8cbea6.png" width=80% height=80%>
+7. 

@@ -19,6 +19,7 @@
 9. 목지원
 <img src="https://user-images.githubusercontent.com/70633080/109271524-fcde2380-7852-11eb-9278-3138fa5ee6a0.png" width=80% height=80%>
 10. 한나연
+<img src="https://user-images.githubusercontent.com/70633080/109271732-44fd4600-7853-11eb-9b8b-fa41610ae90e.png" width=80% height=80%>
 11. 성시원
 12. 장우혁
 13. 이미경

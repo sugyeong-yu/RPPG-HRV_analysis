@@ -14,3 +14,14 @@
 <img src="https://user-images.githubusercontent.com/70633080/109270833-f9966800-7851-11eb-9dfc-da5b5b45021e.png" width=80% height=80%>
 7. 김소의
 <img src="https://user-images.githubusercontent.com/70633080/109271081-598d0e80-7852-11eb-82d2-e1c248e5b585.png" width=80% height=80%>
+8. 이승건
+<img src="https://user-images.githubusercontent.com/70633080/109271352-bc7ea580-7852-11eb-970d-6b4533d42bc3.png" width=80% height=80%>
+9. 목지원
+10. 한나연
+11. 성시원
+12. 장우혁
+13. 이미경
+14. 황현상
+15. 이건영
+16. 진경원
+17. 서건하

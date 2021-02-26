@@ -17,6 +17,7 @@
 8. 이승건
 <img src="https://user-images.githubusercontent.com/70633080/109271352-bc7ea580-7852-11eb-970d-6b4533d42bc3.png" width=80% height=80%>
 9. 목지원
+<img src="https://user-images.githubusercontent.com/70633080/109271524-fcde2380-7852-11eb-9278-3138fa5ee6a0.png" width=80% height=80%>
 10. 한나연
 11. 성시원
 12. 장우혁

@@ -21,6 +21,7 @@
 10. 한나연
 <img src="https://user-images.githubusercontent.com/70633080/109271732-44fd4600-7853-11eb-9b8b-fa41610ae90e.png" width=80% height=80%>
 11. 성시원
+<img src="https://user-images.githubusercontent.com/70633080/109271993-9f96a200-7853-11eb-8dae-e7afe79adbad.png" width=80% height=80%>
 12. 장우혁
 13. 이미경
 14. 황현상

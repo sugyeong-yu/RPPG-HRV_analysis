@@ -1,3 +1,6 @@
+import os
+from utils import *
+# data shift
 def Data_processing(c, path, sr):
     ppg_path = path
     ppg_list = os.listdir(ppg_path)
@@ -13,28 +16,30 @@ def Data_processing(c, path, sr):
 
         ppg_data = load_data(ppg_path_)
         ppg_data = np.array(ppg_data)
-        print(len(ppg_data))
-        cut_ppg = ppg_data[sr * 60:sr * 660 + 1]  # 앞에 1분 짜르기, 12000~132001 > 120001개 데이터    900~19801 > 18001개데이터
-        print(len(cut_ppg))
+        print("before: ", len(ppg_data))
+        #         if(len(ppg_data)< (630*sr)) : # 만약 데이터가 10분30초보다 적다면
+        #             cut_ppg=ppg_data[-18000:] # 뒤에서부터 18000개 가져오기
+        #         else:
+        cut_ppg = ppg_data[sr * 30:sr * 630]  # 앞에 30초 부터 10분 자르기, 12000~132001 > 120000개 데이터    900~19801 > 18000개데이터
+        print("after: ", len(cut_ppg))
         # 5분크기로 30초씩 sift해서 데이터 늘리기
         t1 = 0
         t2 = sr * 300  # 5분 -> 300초
-        for j in range(len(cut_ppg)):
-            new_ppg = ppg_data[t1:t2]
-            f = open(
-                'E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\cut_' + c + '\\' + str(ppg_list[i][:5]) + '_' + str(
-                    j) + '.csv', 'w', newline='')
-            wr = csv.writer(f)
-            wr.writerow(new_ppg)
-            f.close()
-            t1 = t1 + (30 * sr)
-            t2 = t2 + (30 * sr)
-            if t2 > len(cut_ppg):
-                break;
-            print('slicing ppg 저장: ', str(i) + '_' + str(j))
 
 
-#
-# path="E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_cppg"
-# # path="E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_rppg"
-# Data_processing("cppg",path,sr)
+#         for j in range(len(cut_ppg)):
+#             new_ppg=ppg_data[t1:t2]
+#             f = open('E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\cut_'+c+'\\'+str(ppg_list[i][:5])+'_'+str(j)+'.csv','w', newline='')
+#             wr = csv.writer(f)
+#             wr.writerow(new_ppg)
+#             f.close()
+#             t1 = t1+(30*sr)
+#             t2 = t2+(30*sr)
+#             if t2>len(cut_ppg) :
+#                 break;
+#             print('slicing ppg 저장: ', str(i)+'_'+str(j))
+
+
+path = "E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_cppg"
+# path="E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_rppg"
+Data_processing("cppg", path, 200)

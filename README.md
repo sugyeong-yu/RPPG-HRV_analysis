@@ -58,4 +58,5 @@
 5. 목지원
 6. 한나연
 <img src="https://user-images.githubusercontent.com/70633080/109287746-594b3e00-7867-11eb-9840-5e22ae8cbea6.png" width=80% height=80%>
-7. 
+7. 성시원
+8. 

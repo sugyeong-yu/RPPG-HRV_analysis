@@ -74,3 +74,29 @@
 
 - Total (lf_hf_ratio)\
 ![image](https://user-images.githubusercontent.com/70633080/109295516-396d4780-7872-11eb-844d-222c8bc51a9f.png)
+
+
+
+## After Data shift
+1.김나혜 (P400)
+  1. 1_0.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png)
+  2. 1_1.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110083078-91a3cc80-7dd1-11eb-9b91-edaf70610bb0.png)
+  3. 1_2.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110083285-e0e9fd00-7dd1-11eb-9a6d-c8bae9b266a7.png)
+  4. 1_3.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110083393-fd863500-7dd1-11eb-95a0-03fa66ee7a30.png)
+  5. 1_4.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110083467-11ca3200-7dd2-11eb-8b32-b9f7e7b4d054.png)
+  6. 1_5.csv\
+  ![image](https://user-images.githubusercontent.com/70633080/110083532-27d7f280-7dd2-11eb-881f-dec335ebfdc8.png)
+  7. 1_6.csv\
+  
+  8. 1_7.csv\
+  
+  9. 1_8.csv\
+  
+  10. 1_9.csv\
+  
+  11. 1_10.csv\

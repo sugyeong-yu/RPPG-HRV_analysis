@@ -13,6 +13,7 @@
   - 7.vlf	
   - 8.num
  - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
+ - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
 
 ## Before Data shift
 ### 1. P400

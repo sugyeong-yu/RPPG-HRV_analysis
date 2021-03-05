@@ -46,6 +46,9 @@
 17. 서건하
 <img src="https://user-images.githubusercontent.com/70633080/109273140-24ce8680-7855-11eb-8650-ba4ec3a6ba08.png" width=80% height=80%>
 
+- Total (lf_hf_ratio)\
+![image](https://user-images.githubusercontent.com/70633080/110065472-87260a80-7db2-11eb-8669-c6a32104f5e6.png)
+
 ### 2. SpO2_ppg
 - 계열1(파란) : Cppg(SpO2)
 - 계열2(주황) : Rppg(web-cam)

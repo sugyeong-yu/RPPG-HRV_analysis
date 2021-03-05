@@ -13,6 +13,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # csv파일 불러와서 ppg_data로 반환
 def load_data(path):
+
     f = open(path, 'r', encoding='utf-8-sig')
     rdr = csv.reader(f)
     ppg_data=[]

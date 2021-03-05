@@ -12,7 +12,7 @@ def Data_processing(c, path, sr):
 
         # ppg
         print(" file name : ", ppg_list[i])
-        print(ppg_path_)
+        #print(ppg_path_)
 
         ppg_data = load_data(ppg_path_)
         ppg_data = np.array(ppg_data)
@@ -25,21 +25,26 @@ def Data_processing(c, path, sr):
         # 5분크기로 30초씩 sift해서 데이터 늘리기
         t1 = 0
         t2 = sr * 300  # 5분 -> 300초
+        #len(cut_ppg)
+        for j in range(3):
+            new_ppg=ppg_data[t1:t2]
+            #f = open('E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\cut_'+c+'\\'+str(ppg_list[i][:-4])+'_'+str(j)+'.csv','w', newline='')
+            f = open(
+                'E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\'+ str(ppg_list[i][:-4]) + '_' + str(
+                    j) + '.csv', 'w', newline='')
+            wr = csv.writer(f)
+            wr.writerow(new_ppg)
+            f.close()
+            print(len(new_ppg))
+            t1 = t1+(30*sr)
+            t2 = t2+(30*sr)
+            print(t1, t2)
+        #     if t2>len(cut_ppg) :
+        #         break;
+        #     print('slicing ppg 저장: ', str(i)+'_'+str(j))
 
 
-#         for j in range(len(cut_ppg)):
-#             new_ppg=ppg_data[t1:t2]
-#             f = open('E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\cut_'+c+'\\'+str(ppg_list[i][:5])+'_'+str(j)+'.csv','w', newline='')
-#             wr = csv.writer(f)
-#             wr.writerow(new_ppg)
-#             f.close()
-#             t1 = t1+(30*sr)
-#             t2 = t2+(30*sr)
-#             if t2>len(cut_ppg) :
-#                 break;
-#             print('slicing ppg 저장: ', str(i)+'_'+str(j))
-
-
-path = "E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_cppg"
-# path="E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\new_rppg"
+path = "E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\total_cppg\\cppg1" # 200
+#path = "E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\total_cppg\\cppg2" #60
+#path="E:\\prlab\\ysg\\rppg\\rppg_HRV\\data\\ppg_signal\\total_rppg" #30
 Data_processing("cppg", path, 200)

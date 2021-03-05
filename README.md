@@ -12,6 +12,7 @@
   - 6.total_power	
   - 7.vlf	
   - 8.num
+ - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 
 ## Before Data shift
 ### 1. P400

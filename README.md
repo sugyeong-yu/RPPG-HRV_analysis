@@ -11,6 +11,7 @@
   - 7.vlf	
   - 8.num
 - 전처리를 거친 rppg data와 cppg data를 사용
+  - bandpass filtering은 CPPG만 거친다. ( rppg는 bandwidth filtering을 이미 거친 데이터)
   - 총 9분30초의 data를 5분씩 자름\
 ![rppg](https://user-images.githubusercontent.com/70633080/110286439-49321c00-8028-11eb-9c35-be82c612153d.png)
 ![cppg](https://user-images.githubusercontent.com/70633080/110286466-56e7a180-8028-11eb-8283-61b70f7bb34b.png)
@@ -38,8 +39,9 @@
  
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
+- [RPPG 전처리 적용 전 결과](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
 - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
-
+  - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우를 대비하여 bandpass filter를 추가로 적용해본다.
  - 앞으로의 발전
     - rppg 잘안나온거 전처리해보고 다시 개별확인해보기
 

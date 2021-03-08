@@ -45,13 +45,12 @@
 
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
-- [RPPG 전처리 적용 후 결과 비교]
+- [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
 
-
-  
-  
  - 앞으로의 발전
     - rppg 잘안나온거 전처리해보고 다시 개별확인해보기
+
+
 ## Before Data shift
 ### 1. P400
 - 계열1(파란) : Cppg(p400)

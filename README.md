@@ -170,6 +170,16 @@
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
 ### rppg filtering 과정 후 
+- 1_2.csv
+  - rppg\
+  ![image](https://user-images.githubusercontent.com/70633080/110288521-7c29df00-802b-11eb-889f-0d6b3ae10055.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110288527-7fbd6600-802b-11eb-9433-648d9ff1dfa9.png)
+  - ppi\
+  ![image](https://user-images.githubusercontent.com/70633080/110288542-864bdd80-802b-11eb-941d-244746171e75.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110288548-88ae3780-802b-11eb-9607-f2873b69fabd.png)
+  - graph\
+  ![image](https://user-images.githubusercontent.com/70633080/110288559-8f3caf00-802b-11eb-8afe-f8fe4e2540b9.png)
+  - ppi는 확연히 좋아졌지만 graph에서의 차이는 더 커짐,,
 - 2_2.csv
   - rppg\
   ![before](https://user-images.githubusercontent.com/70633080/110287498-f9eceb00-8029-11eb-9108-8e86884ea82b.png)
@@ -177,3 +187,7 @@
   - ppi\
   ![before](https://user-images.githubusercontent.com/70633080/110287619-2d2f7a00-802a-11eb-850d-e74af12a3152.png)
   ![after](https://user-images.githubusercontent.com/70633080/110287462-ea6da200-8029-11eb-9626-97bc6a8326e9.png)
+  - graph
+  ![image](https://user-images.githubusercontent.com/70633080/110288459-61576a80-802b-11eb-88bf-67abb99039bb.png)
+  - ppi는 더 좋아졌고 그래프상으로는 유사함
+

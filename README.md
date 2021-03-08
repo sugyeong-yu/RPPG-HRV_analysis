@@ -1,10 +1,27 @@
 # rppg_HRV
 :heartpulse: 비접촉식 rppg를 이용한 HRV분석
-- Protocol
+# DATA
+- Data
+  - 1.lf
+  - 2.hf	
+  - 3.lf_hf_ratio	
+  - 4.lfnu	
+  - 5.hfnu	
+  - 6.total_power	
+  - 7.vlf	
+  - 8.num
+- 전처리를 거친 ppg data를 사용
+  - 총 9분30초의 data를 5분씩 자름\
+![rppg](https://user-images.githubusercontent.com/70633080/110286439-49321c00-8028-11eb-9c35-be82c612153d.png)
+![cppg](https://user-images.githubusercontent.com/70633080/110286466-56e7a180-8028-11eb-8283-61b70f7bb34b.png)
+
+# Protocol
 1. 실험
   - rppg와 cppg를 동시에 측정한다.
   - 피험자 수 : 13명
   - 실험시간 : 11분 ( 앞의 30초 자르고 뒤의 1분 자르기)
+  - 사용된 기기 : 총2개 (P400과 SPO2)
+    - 사람 별로 둘중 잘나온 data
 2. 데이터 분석
     1. Data load : csv file을 불러와 심박신호를 불러옴
     2. Data cutting : 데이터의 노이즈를 감안하여 앞의 30초, 뒤의 1분을 잘라 9분30초의 데이터로 만듬
@@ -17,17 +34,10 @@
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
 
 # Result
-- Data
-  - 1.lf
-  - 2.hf	
-  - 3.lf_hf_ratio	
-  - 4.lfnu	
-  - 5.hfnu	
-  - 6.total_power	
-  - 7.vlf	
-  - 8.num
+
  - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
  - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
+    - rppg
 
 - PPI비교
   - 잘 나온 예시\

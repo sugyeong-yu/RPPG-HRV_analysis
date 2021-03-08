@@ -33,18 +33,17 @@
     7. ppi 계산 : hrv분석에서 필요한 것은 ppi(peak간의 간격) 데이터이기 때문에 찾은 peak를 통해 ppi를 계산한다.
     8. hrv feature extract : hrv 특징을 추출해주는 모듈을 사용하여 각 특징들을 뽑는다.
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
-
+# 발전
+- rppg 전처리해보고 결과비교하기
 # Result
 
- 
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
+  - Data를 cutting & shift하여 데이터의 수를 늘린다.
 - [RPPG 전처리 적용 전 결과](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
 - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
-  - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우를 대비하여 bandpass filter를 추가로 적용해본다.
- - 앞으로의 발전
-    - rppg 잘안나온거 전처리해보고 다시 개별확인해보기
-
+  - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.
+  - 이를 대비하여 bandpass filter를 추가로 적용해본다.
 
 ## Before Data shift
 ### 1. P400

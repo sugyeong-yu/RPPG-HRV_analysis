@@ -202,3 +202,15 @@
   ![image](https://user-images.githubusercontent.com/70633080/110289562-f149e400-802c-11eb-9578-82cf0e7c840a.png)
   ![image](https://user-images.githubusercontent.com/70633080/110289542-e98a3f80-802c-11eb-950f-988b79ea8521.png)
   - ppi는 약간 좋아졌고 그래프는 훨씬 좋아짐
+
+- 6_2.csv
+  - rppg\
+  ![image](https://user-images.githubusercontent.com/70633080/110290113-bac09900-802d-11eb-8c39-0ee12dcc5ffe.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110290127-be542000-802d-11eb-85ad-0eaaddd6b047.png)
+  - ppi\
+  ![image](https://user-images.githubusercontent.com/70633080/110290153-c613c480-802d-11eb-9c8c-672457252155.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110290156-c90eb500-802d-11eb-89dd-f15c6dcecb85.png)
+  - graph\
+  ![image](https://user-images.githubusercontent.com/70633080/110290307-fce9da80-802d-11eb-980f-2fe80e1d5f72.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110290226-dfb50c00-802d-11eb-9cda-88493cc14add.png)
+  - ppi엔 약간  그래프에선 나빠짐

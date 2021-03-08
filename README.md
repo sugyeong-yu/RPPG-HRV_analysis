@@ -160,7 +160,30 @@
   ![image](https://user-images.githubusercontent.com/70633080/110274360-02392c00-8012-11eb-97f1-6fa1546e8208.png)
     11. 2_10.csv\ 
   ![image](https://user-images.githubusercontent.com/70633080/110274424-23018180-8012-11eb-8318-0dae8df7e2c3.png)
-
+3. 김나혜(P400)\
+![image](https://user-images.githubusercontent.com/70633080/110293745-4b997380-8032-11eb-8fe2-2eb154d5ea88.png)
+    1. 3_0.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110292880-3839d880-8031-11eb-8e7d-d606423b112d.png)
+    2. 3_1.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293032-691a0d80-8031-11eb-8083-7674e4a586a6.png)
+    3. 3_2.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293121-818a2800-8031-11eb-9ccd-1fce92547f72.png)
+    4. 3_3.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293177-95ce2500-8031-11eb-8119-2ce7d52dc0a6.png)
+    5. 3_4.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293233-aa122200-8031-11eb-88a3-537ea67c1f03.png)
+    6. 3_5.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293300-c01fe280-8031-11eb-8b28-fa9323d3758f.png)
+    7. 3_6.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293383-d7f76680-8031-11eb-9172-81d614fd0942.png)
+    8. 3_7.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293448-ee9dbd80-8031-11eb-9b52-fa9af0b1bc5a.png)
+    9. 3_8.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293521-04ab7e00-8032-11eb-8405-22820b744e10.png)
+    10. 3_9.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293585-1a20a800-8032-11eb-951e-03e86bdda1e1.png)
+    11. 3_10.csv\
+    ![image](https://user-images.githubusercontent.com/70633080/110293668-34f31c80-8032-11eb-8522-03fbcb627a92.png)
 ### rppg filtering 과정 전
 - PPI비교
   - 잘 나온 예시\

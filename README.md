@@ -34,15 +34,8 @@
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
 
 # Result
-- PPI비교
-  - 잘 나온 예시\
-  ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
-  ![image](https://user-images.githubusercontent.com/70633080/110275100-c010ea00-8013-11eb-8ec6-e5f1f7e42964.png)
-  - 잘못나온 예시\
-  ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
-  ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
-  
 
+ 
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
 - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
@@ -167,4 +160,12 @@
     11. 2_10.csv\ 
   ![image](https://user-images.githubusercontent.com/70633080/110274424-23018180-8012-11eb-8318-0dae8df7e2c3.png)
 
+### rppg filtering 과정 전
+- PPI비교
+  - 잘 나온 예시\
+  ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110275100-c010ea00-8013-11eb-8ec6-e5f1f7e42964.png)
+  - 잘못나온 예시\
+  ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
 ### rppg filtering 과정 후 

@@ -170,3 +170,9 @@
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
 ### rppg filtering 과정 후 
+- 2_2.csv
+  - rppg\
+  ![before](https://user-images.githubusercontent.com/70633080/110287498-f9eceb00-8029-11eb-9108-8e86884ea82b.png)
+  ![after](https://user-images.githubusercontent.com/70633080/110287527-05401680-802a-11eb-9ff0-aaad2d5f4681.png)
+  - ppi\
+  ![after](https://user-images.githubusercontent.com/70633080/110287462-ea6da200-8029-11eb-9626-97bc6a8326e9.png)

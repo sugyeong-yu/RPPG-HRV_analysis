@@ -191,3 +191,11 @@
   ![image](https://user-images.githubusercontent.com/70633080/110288459-61576a80-802b-11eb-88bf-67abb99039bb.png)
   - ppi는 더 좋아졌고 그래프상으로는 유사함
 
+- 6_1.csv
+  - rppg\
+  ![image](https://user-images.githubusercontent.com/70633080/110289335-9dd79600-802c-11eb-85bf-d7c1379fb95e.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110289351-a4fea400-802c-11eb-8ab6-216375e43374.png)
+  - ppi\
+  ![image](https://user-images.githubusercontent.com/70633080/110289147-5c46eb00-802c-11eb-9966-c49da92354c5.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110289137-57823700-802c-11eb-8f40-3985f72cc9fe.png)
+  - graph\

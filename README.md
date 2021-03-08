@@ -10,7 +10,7 @@
   - 6.total_power	
   - 7.vlf	
   - 8.num
-- 전처리를 거친 ppg data를 사용
+- 전처리를 거친 rppg data와 cppg data를 사용
   - 총 9분30초의 data를 5분씩 자름\
 ![rppg](https://user-images.githubusercontent.com/70633080/110286439-49321c00-8028-11eb-9c35-be82c612153d.png)
 ![cppg](https://user-images.githubusercontent.com/70633080/110286466-56e7a180-8028-11eb-8283-61b70f7bb34b.png)
@@ -34,11 +34,6 @@
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
 
 # Result
-
- - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
- - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
-    - rppg
-
 - PPI비교
   - 잘 나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
@@ -46,6 +41,13 @@
   - 잘못나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
+  
+
+- [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
+- [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
+- [RPPG 전처리 적용 후 결과 비교]
+
+
   
   
  - 앞으로의 발전
@@ -165,3 +167,5 @@
   ![image](https://user-images.githubusercontent.com/70633080/110274360-02392c00-8012-11eb-97f1-6fa1546e8208.png)
     11. 2_10.csv\ 
   ![image](https://user-images.githubusercontent.com/70633080/110274424-23018180-8012-11eb-8318-0dae8df7e2c3.png)
+
+### rppg filtering 과정 후 

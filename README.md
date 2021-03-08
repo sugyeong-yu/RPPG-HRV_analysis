@@ -187,7 +187,7 @@
   - ppi\
   ![before](https://user-images.githubusercontent.com/70633080/110287619-2d2f7a00-802a-11eb-850d-e74af12a3152.png)
   ![after](https://user-images.githubusercontent.com/70633080/110287462-ea6da200-8029-11eb-9626-97bc6a8326e9.png)
-  - graph
+  - graph\
   ![image](https://user-images.githubusercontent.com/70633080/110288459-61576a80-802b-11eb-88bf-67abb99039bb.png)
   - ppi는 더 좋아졌고 그래프상으로는 유사함
 

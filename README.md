@@ -29,6 +29,17 @@
  - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
  - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
 
+- PPI비교
+  - 잘 나온 예시\
+  ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110275100-c010ea00-8013-11eb-8ec6-e5f1f7e42964.png)
+  - 잘못나온 예시\
+  ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
+  
+  
+ - 앞으로의 발전
+    - rppg 잘안나온거 전처리해보고 다시 개별확인해보기
 ## Before Data shift
 ### 1. P400
 - 계열1(파란) : Cppg(p400)

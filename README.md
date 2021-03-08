@@ -199,3 +199,6 @@
   ![image](https://user-images.githubusercontent.com/70633080/110289147-5c46eb00-802c-11eb-9966-c49da92354c5.png)
   ![image](https://user-images.githubusercontent.com/70633080/110289137-57823700-802c-11eb-8f40-3985f72cc9fe.png)
   - graph\
+  ![image](https://user-images.githubusercontent.com/70633080/110289562-f149e400-802c-11eb-9578-82cf0e7c840a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110289542-e98a3f80-802c-11eb-950f-988b79ea8521.png)
+  - ppi는 약간 좋아졌고 그래프는 훨씬 좋아짐

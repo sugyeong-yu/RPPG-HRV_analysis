@@ -107,50 +107,50 @@
 ## After Data shift
 1.김나혜 (P400)\
 ![image](https://user-images.githubusercontent.com/70633080/110087300-cfefba80-7dd6-11eb-9853-e5d7dfcdf376.png)
-  1. 1_0.csv\
+    1. 1_0.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png)
-  2. 1_1.csv\
+    2. 1_1.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083078-91a3cc80-7dd1-11eb-9b91-edaf70610bb0.png)
-  3. 1_2.csv\
+    3. 1_2.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083285-e0e9fd00-7dd1-11eb-9a6d-c8bae9b266a7.png)
-  4. 1_3.csv\
+    4. 1_3.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083393-fd863500-7dd1-11eb-95a0-03fa66ee7a30.png)
-  5. 1_4.csv\
+    5. 1_4.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083467-11ca3200-7dd2-11eb-8b32-b9f7e7b4d054.png)
-  6. 1_5.csv\
+    6. 1_5.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083532-27d7f280-7dd2-11eb-881f-dec335ebfdc8.png)
-  7. 1_6.csv\
+    7. 1_6.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110087770-6b812b00-7dd7-11eb-873e-b19ff2f5df46.png)
-  8. 1_7.csv\
+    8. 1_7.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110087833-80f65500-7dd7-11eb-9d89-763027d203b5.png)
-  9. 1_8.csv\
+    9. 1_8.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110087909-966b7f00-7dd7-11eb-9793-ed7744bd2139.png)
-  10. 1_9.csv\
+    10. 1_9.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110087994-ab481280-7dd7-11eb-86a7-88b2d340f14f.png)
-  11. 1_10.csv\
+    11. 1_10.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110088104-c74bb400-7dd7-11eb-8d0d-c797627a511d.png)
 
 2. 김소의(p400)\
 ![image](https://user-images.githubusercontent.com/70633080/110274487-475d5e00-8012-11eb-886c-619621fb7902.png)
-  1. 2_0.csv\
+    1. 2_0.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110273858-d9fcfd80-8010-11eb-9aa3-5f71da0582a7.png)
-  2. 2_1.csv\
+    2. 2_1.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110273905-f4cf7200-8010-11eb-82f8-19ea0f14f9df.png)
-  3. 2_2.csv\
+    3. 2_2.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110273963-14669a80-8011-11eb-8268-e76f30c4ebfe.png)
-  4. 2_3.csv\
+    4. 2_3.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274003-2ea07880-8011-11eb-9920-2a3136bea23a.png)
-  5. 2_4.csv\
+    5. 2_4.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274050-4546cf80-8011-11eb-8c8b-671d63b9b0ef.png)
-  6. 2_5.csv\
+    6. 2_5.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274193-98b91d80-8011-11eb-9c95-b3547b3dff5d.png)
-  7. 2_6.csv\
+    7. 2_6.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274237-b4242880-8011-11eb-94f3-0c83e4c31705.png)
-  8. 2_7.csv\
+    8. 2_7.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274291-d0c06080-8011-11eb-827c-b4d978192af5.png)
-  9. 2_8.csv\
+    9. 2_8.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274327-e9c91180-8011-11eb-9511-14a7770a40cb.png)
-  10. 2_9.csv\
+    10. 2_9.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110274360-02392c00-8012-11eb-97f1-6fa1546e8208.png)
-  11. 2_10.csv\ 
+    11. 2_10.csv\ 
   ![image](https://user-images.githubusercontent.com/70633080/110274424-23018180-8012-11eb-8318-0dae8df7e2c3.png)

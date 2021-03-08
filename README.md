@@ -184,6 +184,10 @@
     ![image](https://user-images.githubusercontent.com/70633080/110293585-1a20a800-8032-11eb-951e-03e86bdda1e1.png)
     11. 3_10.csv\
     ![image](https://user-images.githubusercontent.com/70633080/110293668-34f31c80-8032-11eb-8522-03fbcb627a92.png)
+    
+5. 김나혜(P400)\
+![image](https://user-images.githubusercontent.com/70633080/110295170-260d6980-8034-11eb-856c-0d00c264257d.png)
+
 ### rppg filtering 과정 전
 - PPI비교
   - 잘 나온 예시\

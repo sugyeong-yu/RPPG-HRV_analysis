@@ -50,6 +50,10 @@
 ### 1. P400
 - 계열1(파란) : Cppg(p400)
 - 계열2(주황) : Rppg(web-cam)
+
+- Total (lf_hf_ratio)\
+![image](https://user-images.githubusercontent.com/70633080/110065472-87260a80-7db2-11eb-8669-c6a32104f5e6.png)
+
 <details>
 <summary>hrv feature graph(자세히)</summary>
 
@@ -92,12 +96,15 @@
 </div>
 </details>
 
-- Total (lf_hf_ratio)\
-![image](https://user-images.githubusercontent.com/70633080/110065472-87260a80-7db2-11eb-8669-c6a32104f5e6.png)
 
 ### 2. SpO2_ppg
 - 계열1(파란) : Cppg(SpO2)
 - 계열2(주황) : Rppg(web-cam)
+- Total (lf_hf_ratio)\
+![image](https://user-images.githubusercontent.com/70633080/109295516-396d4780-7872-11eb-844d-222c8bc51a9f.png)
+
+<details>
+<summary>hrv feature graph(자세히)</summary>
 1. 김나혜
 2. 유수경
 <img src="https://user-images.githubusercontent.com/70633080/109286776-0d4bc980-7866-11eb-93da-6a47b93b3413.png" width=80% height=80%>
@@ -111,14 +118,15 @@
 <img src="https://user-images.githubusercontent.com/70633080/109289018-f2c71f80-7868-11eb-9f5e-6210147085e6.png" width=80% height=80%>
 8. 장우혁
 <img src="https://user-images.githubusercontent.com/70633080/109289164-2a35cc00-7869-11eb-9ccd-2085b8d68954.png" width=80% height=80%> 
+</div>
+</details>
 
-- Total (lf_hf_ratio)\
-![image](https://user-images.githubusercontent.com/70633080/109295516-396d4780-7872-11eb-844d-222c8bc51a9f.png)
 
 
 
 ## After Data shift
-1. 김나혜 (P400)\
+<details>
+<summary>1.김나혜(P400)(자세히)</summary>
   ![image](https://user-images.githubusercontent.com/70633080/110087300-cfefba80-7dd6-11eb-9853-e5d7dfcdf376.png)
     1. 1_0.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png)
@@ -142,7 +150,8 @@
   ![image](https://user-images.githubusercontent.com/70633080/110087994-ab481280-7dd7-11eb-86a7-88b2d340f14f.png)
     11. 1_10.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110088104-c74bb400-7dd7-11eb-8d0d-c797627a511d.png)
-
+</div>
+</details>
 
 2. 김소의(p400)\
 ![image](https://user-images.githubusercontent.com/70633080/110274487-475d5e00-8012-11eb-886c-619621fb7902.png)

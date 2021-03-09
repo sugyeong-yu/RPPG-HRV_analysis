@@ -3,6 +3,7 @@ import sys
 
 import heartpy as hp
 import matplotlib.pyplot as plt
+import matplotlib
 import numpy as np
 import scipy
 from scipy import signal
@@ -11,6 +12,7 @@ import math
 from hrvanalysis import get_frequency_domain_features
 from utils import *
 
+# matplotlib.use('Qt5Agg')
 
 def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
 
@@ -49,9 +51,9 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
     filtered= preprocessing(ppg_data,2.0,0.5,sr) #FIR_filter(ppg_data,200,40,0.032,True)
 
     ppg_scaled=normalization(filtered)
-    plt.plot(ppg_scaled,label="after filtering and norm")
-    plt.xlim([0, 3000])
-    plt.show()
+    # plt.plot(ppg_scaled,label="after filtering and norm")
+    # plt.xlim([0, 3000])
+    # plt.show()
 
     peaks_y,peaks_x= detect_peak(ppg_scaled,c_distance)
     print("-------------------timedomain and find feak-------------------")
@@ -149,66 +151,67 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
 
 
 # if __name__ == "__main__":
-#     for i in range(17):
+#     for i in range(13):
 #         for j in range(11):
-#             save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\final" + "\\" + str(i+1) + "_" + str(j) +'.csv'
-#             cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
-#             rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
+#             save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\3.shift(spo2)" + "\\" + str(i+1) + "_" + str(j) +'.csv'
+#             cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\3-1.cut_cppg(spo2)"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
+#             rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\3-1.cut_rppg(spo2)"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
 #
 #             if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False:
 #                 continue
 #
-#             if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
-#                 c_sr=60
-#                 r_sr=30
-#             else:
-#                 c_sr=200
-#                 r_sr=30
+#             # if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
+#             c_sr=60
+#             r_sr=30
+#             # else:
+#             #     c_sr=200
+#             #     r_sr=30
 #
 #             # hrv 분석
 #             cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
 #
-#             # #  csv로 결과 저장
-#             # # 1. cppg
-#             # cppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-#             # rppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-#             # f = open(save_path, 'w', newline='')
-#             # wr = csv.writer(f)
-#             # wr.writerow(cppg_frequency_features.keys())
-#             # wr.writerow(cppg_frequency_features.values())
-#             # wr.writerow(rppg_frequency_features.values())
-#             # f.close()
+#             #  csv로 결과 저장
+#             # 1. cppg
+#             cppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
+#             rppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
+#             f = open(save_path, 'w', newline='')
+#             wr = csv.writer(f)
+#             wr.writerow(cppg_frequency_features.keys())
+#             wr.writerow(cppg_frequency_features.values())
+#             wr.writerow(rppg_frequency_features.values())
+#             f.close()
 
 # 개별실행
 
 if __name__ == "__main__":
-    i=6
-    j=2
+    i=5
+    j=0
 
-    save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features" + "\\" + str(i) + "_" + str(j) +'.csv'
-    cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i)+"_"+str(j)+".csv"
-    rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i)+"_"+str(j)+".csv"
+    save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\4.shift(rppg_filtering)" + "\\" + str(i) + "_" + str(j) +'.csv'
+    cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\2-1.cut_cppg(p400+spo2)"+"\\cppg"+str(i)+"_"+str(j)+".csv"
+    rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\2-1.cut_rppg(p400+spo2)"+"\\rppg"+str(i)+"_"+str(j)+".csv"
 
     if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False :
         sys.exit()
 
+    # p400 + spo2인 경우
     if ((i) == 6 or (i) ==8 or (i) ==10 or (i) ==11):
         c_sr=60
         r_sr=30
     else:
         c_sr=200
         r_sr=30
-
+    print("a")
     # hrv 분석
     cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
-    #
-    # #  csv로 결과 저장
-    # # 1. cppg
-    # cppg_frequency_features['num'] = str(i )+"_"+str(j)
-    # rppg_frequency_features['num'] = str(i )+"_"+str(j)
-    # f = open(save_path, 'w', newline='')
-    # wr = csv.writer(f)
-    # wr.writerow(cppg_frequency_features.keys())
-    # wr.writerow(cppg_frequency_features.values())
-    # wr.writerow(rppg_frequency_features.values())
-    # f.close()
+
+    #  csv로 결과 저장
+    # 1. cppg
+    cppg_frequency_features['num'] = str(i)+"_"+str(j)
+    rppg_frequency_features['num'] = str(i)+"_"+str(j)
+    f = open(save_path, 'w', newline='')
+    wr = csv.writer(f)
+    wr.writerow(cppg_frequency_features.keys())
+    wr.writerow(cppg_frequency_features.values())
+    wr.writerow(rppg_frequency_features.values())
+    f.close()

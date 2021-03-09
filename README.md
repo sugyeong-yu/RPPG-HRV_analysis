@@ -112,8 +112,8 @@
 ## After Data shift
 1. 김나혜 (P400)\
   ![image](https://user-images.githubusercontent.com/70633080/110087300-cfefba80-7dd6-11eb-9853-e5d7dfcdf376.png)
-    1. 1_0.csv\
-  ![image](https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png)
+    1. 1_0.csv
+  <img src="https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png" width=80% height=80%> 
     2. 1_1.csv\
   ![image](https://user-images.githubusercontent.com/70633080/110083078-91a3cc80-7dd1-11eb-9b91-edaf70610bb0.png)
     3. 1_2.csv\

@@ -93,6 +93,16 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
     plt.xlim([0, 300])
     plt.show()
 
+    # 주파수스펙트럼 시각화.
+    f, psd = scipy.signal.periodogram(ppg_data, fs=sr, window='hann')
+
+    plt.plot(f, psd, 'k', linewidth=2, label="frequency_spectrum")
+    plt.xlim([0, 4])
+    plt.show()
+
+    ppg_data = preprocessing(ppg_data, 2.0, 0.5, sr) # FIR_filter(ppg_data,sr,20,0.032,True)
+
+
     ppg_scaled=normalization(ppg_data)
     # plt.plot(ppg_scaled,label="after filtering and norm")
     # plt.xlim([0, 300])
@@ -138,67 +148,67 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
     return cppg_frequency_features, rppg_frequency_features
 
 
-if __name__ == "__main__":
-    for i in range(17):
-        for j in range(11):
-            save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\final" + "\\" + str(i+1) + "_" + str(j) +'.csv'
-            cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
-            rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
-
-            if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False:
-                continue
-
-            if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
-                c_sr=60
-                r_sr=30
-            else:
-                c_sr=200
-                r_sr=30
-
-            # hrv 분석
-            cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
-
-            #  csv로 결과 저장
-            # 1. cppg
-            cppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-            rppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-            f = open(save_path, 'w', newline='')
-            wr = csv.writer(f)
-            wr.writerow(cppg_frequency_features.keys())
-            wr.writerow(cppg_frequency_features.values())
-            wr.writerow(rppg_frequency_features.values())
-            f.close()
-
-## 개별실행
-
 # if __name__ == "__main__":
-#     i=15
-#     j=0
+#     for i in range(17):
+#         for j in range(11):
+#             save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\final" + "\\" + str(i+1) + "_" + str(j) +'.csv'
+#             cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
+#             rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
 #
-#     save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\final" + "\\" + str(i+1) + "_" + str(j) +'.csv'
-#     cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
-#     rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
+#             if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False:
+#                 continue
 #
-#     if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False :
-#         sys.exit()
+#             if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
+#                 c_sr=60
+#                 r_sr=30
+#             else:
+#                 c_sr=200
+#                 r_sr=30
 #
-#     if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
-#         c_sr=60
-#         r_sr=30
-#     else:
-#         c_sr=200
-#         r_sr=30
+#             # hrv 분석
+#             cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
 #
-#     # hrv 분석
-#     cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
-#
-#     # #  csv로 결과 저장
-#     # # 1. cppg
-#     # cppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-#     # rppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
-#     # f = open(save_path, 'w', newline='')
-#     # wr = csv.writer(f)
-#     # wr.writerow(cppg_frequency_features.keys())
-#     # wr.writerow(cppg_frequency_features.values())
-#     # wr.writerow(rppg_frequency_features.values())
-#     # f.close()
+#             # #  csv로 결과 저장
+#             # # 1. cppg
+#             # cppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
+#             # rppg_frequency_features['num'] = str(i + 1)+"_"+str(j)
+#             # f = open(save_path, 'w', newline='')
+#             # wr = csv.writer(f)
+#             # wr.writerow(cppg_frequency_features.keys())
+#             # wr.writerow(cppg_frequency_features.values())
+#             # wr.writerow(rppg_frequency_features.values())
+#             # f.close()
+
+# 개별실행
+
+if __name__ == "__main__":
+    i=6
+    j=2
+
+    save_path ="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features" + "\\" + str(i) + "_" + str(j) +'.csv'
+    cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_cppg"+"\\cppg"+str(i)+"_"+str(j)+".csv"
+    rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\cut_rppg"+"\\rppg"+str(i)+"_"+str(j)+".csv"
+
+    if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False :
+        sys.exit()
+
+    if ((i) == 6 or (i) ==8 or (i) ==10 or (i) ==11):
+        c_sr=60
+        r_sr=30
+    else:
+        c_sr=200
+        r_sr=30
+
+    # hrv 분석
+    cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)
+    #
+    # #  csv로 결과 저장
+    # # 1. cppg
+    # cppg_frequency_features['num'] = str(i )+"_"+str(j)
+    # rppg_frequency_features['num'] = str(i )+"_"+str(j)
+    # f = open(save_path, 'w', newline='')
+    # wr = csv.writer(f)
+    # wr.writerow(cppg_frequency_features.keys())
+    # wr.writerow(cppg_frequency_features.values())
+    # wr.writerow(rppg_frequency_features.values())
+    # f.close()

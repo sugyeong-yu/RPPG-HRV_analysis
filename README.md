@@ -257,7 +257,29 @@
 <details>
 <summary>6. 유수경(spo2)(자세히)</summary>
 
-
+![image](https://user-images.githubusercontent.com/70633080/110475132-d4dca300-8123-11eb-819a-25efe6eb6afe.png)
+1. 6_0.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475624-75cb5e00-8124-11eb-8ee0-c4401546c4c1.png)
+2. 6_1.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475684-8c71b500-8124-11eb-8b18-130473963666.png)
+3. 6_2.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475768-a1e6df00-8124-11eb-8928-2e02f705d93b.png)
+4. 6_3.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475829-af9c6480-8124-11eb-8f4e-3d0d24321cdb.png)
+5. 6_4.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475877-be831700-8124-11eb-94c7-696e1fc92217.png)
+6. 6_5.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475957-ce9af680-8124-11eb-9232-0abf7e5d87e9.png)
+7. 6_6.csv\
+![image](https://user-images.githubusercontent.com/70633080/110475993-dc507c00-8124-11eb-8277-ba6f95fd28c8.png)
+8. 6_7.csv\
+![image](https://user-images.githubusercontent.com/70633080/110476067-ee321f00-8124-11eb-9ab1-8faacf71295b.png)
+9. 6_8.csv\
+![image](https://user-images.githubusercontent.com/70633080/110476136-fee29500-8124-11eb-80ca-fc62066f2023.png)
+10. 6_9.csv\
+![image](https://user-images.githubusercontent.com/70633080/110476199-10c43800-8125-11eb-8616-e89ffd49e38a.png)
+11. 6_10.csv\
+![image](https://user-images.githubusercontent.com/70633080/110476269-20dc1780-8125-11eb-9f62-7dc367e54d48.png)
 
 </div>
 </details>

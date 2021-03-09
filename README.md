@@ -1,5 +1,6 @@
 # rppg_HRV
 :heartpulse: 비접촉식 rppg를 이용한 HRV분석
+
 # DATA
 - Data
   - 1.lf
@@ -49,6 +50,9 @@
 ### 1. P400
 - 계열1(파란) : Cppg(p400)
 - 계열2(주황) : Rppg(web-cam)
+<details>
+<summary>hrv feature graph(자세히)</summary>
+
 1. 김나혜
 <img src="https://user-images.githubusercontent.com/70633080/109270154-f9e23380-7850-11eb-9fd4-1f5b2b1363da.png" width=80% height=80%>
 2. 김소의
@@ -83,6 +87,10 @@
 <img src="https://user-images.githubusercontent.com/70633080/109272938-e3d67200-7854-11eb-8c20-43da30702356.png" width=80% height=80%>
 17. 서건하
 <img src="https://user-images.githubusercontent.com/70633080/109273140-24ce8680-7855-11eb-8650-ba4ec3a6ba08.png" width=80% height=80%>
+
+
+</div>
+</details>
 
 - Total (lf_hf_ratio)\
 ![image](https://user-images.githubusercontent.com/70633080/110065472-87260a80-7db2-11eb-8669-c6a32104f5e6.png)

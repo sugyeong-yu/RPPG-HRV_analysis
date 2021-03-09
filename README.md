@@ -13,7 +13,8 @@
   - 8.num
 - 전처리를 거친 rppg data와 cppg data를 사용
   - bandpass filtering은 CPPG만 거친다. ( rppg는 bandwidth filtering을 이미 거친 데이터)
-  - 총 9분30초의 data를 5분씩 자름\
+  - 총 9분30초의 data를 5분씩 자름
+  - 예시 ( rppg , cppg)\
 ![rppg](https://user-images.githubusercontent.com/70633080/110286439-49321c00-8028-11eb-9c35-be82c612153d.png)
 ![cppg](https://user-images.githubusercontent.com/70633080/110286466-56e7a180-8028-11eb-8283-61b70f7bb34b.png)
 

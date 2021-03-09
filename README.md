@@ -100,8 +100,8 @@
 ### 2. SpO2_ppg
 - 계열1(파란) : Cppg(SpO2)
 - 계열2(주황) : Rppg(web-cam)
-- Total (lf_hf_ratio)\
-![image](https://user-images.githubusercontent.com/70633080/109295516-396d4780-7872-11eb-844d-222c8bc51a9f.png)
+- Total (lf_hf_ratio)
+<img src="https://user-images.githubusercontent.com/70633080/109295516-396d4780-7872-11eb-844d-222c8bc51a9f.png" width=80% height=80%>
 
 <details>
 <summary>hrv feature graph(자세히)</summary>

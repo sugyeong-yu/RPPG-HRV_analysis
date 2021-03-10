@@ -36,7 +36,10 @@
     8. hrv feature extract : hrv 특징을 추출해주는 모듈을 사용하여 각 특징들을 뽑는다.
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
 # 발전
-- rppg 전처리해보고 결과비교하기
+- norm뺴고해보기 (결과조금더 좋은거같기도,,)\
+- 아래는 11번 
+![image](https://user-images.githubusercontent.com/70633080/110612867-f301dc00-81d3-11eb-818c-2e6ff0d647f1.png)
+
 # Result
 
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)

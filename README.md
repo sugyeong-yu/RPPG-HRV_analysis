@@ -317,7 +317,29 @@
 <details>
 <summary>8. 이승건(spo2)(자세히)</summary>
 
-
+![image](https://user-images.githubusercontent.com/70633080/110604199-27bd6580-81cb-11eb-8a78-8ec5aa4ef629.png)
+1. 8_0.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604380-5afff480-81cb-11eb-9396-63528d18579d.png)
+2. 8_1.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604412-68b57a00-81cb-11eb-9ebc-b8ac2548d0d9.png)
+3. 8_2.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604718-b7631400-81cb-11eb-850d-bf0bc62c8b15.png)
+4. 8_3.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604463-766aff80-81cb-11eb-8d5d-935c23e34847.png)
+5. 8_4.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604533-8b479300-81cb-11eb-84cc-bd846c1f6b17.png)
+6. 8_5.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604767-c5b13000-81cb-11eb-86d1-61509ee08ab2.png)
+7. 8_6.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604814-d661a600-81cb-11eb-8d25-d22f5a013eeb.png)
+8. 8_7.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604885-ea0d0c80-81cb-11eb-992f-a5e177e5b533.png)
+9. 8_8.csv\
+![image](https://user-images.githubusercontent.com/70633080/110604965-fd1fdc80-81cb-11eb-8a62-65d94e637302.png)
+10. 8_9.csv\
+![image](https://user-images.githubusercontent.com/70633080/110605016-0ad56200-81cc-11eb-9f40-7f2371c9eeb8.png)
+11. 8_10.csv\
+![image](https://user-images.githubusercontent.com/70633080/110605078-188ae780-81cc-11eb-9048-7fab9bf6b504.png)
 
 </div>
 </details>

@@ -377,7 +377,27 @@
 <details>
 <summary>10. 한나연(spo2)(자세히)</summary>
 
-
+![image](https://user-images.githubusercontent.com/70633080/110609009-2478a880-81d0-11eb-9003-49f39c992059.png)
+1. 10_0.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608159-51788b80-81cf-11eb-8e52-c754ac8f32f4.png)
+2. 10_1.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608252-69e8a600-81cf-11eb-88e5-dfea4ed304aa.png)
+3. 10_2.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608326-7cfb7600-81cf-11eb-9f86-7ed36fe20b9a.png)
+4. 10_3.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608429-96042700-81cf-11eb-847d-0f17b76b0552.png)
+5. 10_4.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608522-acaa7e00-81cf-11eb-884b-01822a8a1fbe.png)
+6. 10_5.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608601-be8c2100-81cf-11eb-9918-758584439a2b.png)
+7. 10_6.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608701-d368b480-81cf-11eb-8b39-5d34eb9556ad.png)
+8. 10_7.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608797-e9767500-81cf-11eb-8947-437154e8a260.png)
+9. 10_8.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608869-fd21db80-81cf-11eb-86cd-94a6516adb1d.png)
+10. 10_9.csv\
+![image](https://user-images.githubusercontent.com/70633080/110608933-0f9c1500-81d0-11eb-9696-5cce27d3d754.png)
 
 </div>
 </details>
@@ -386,7 +406,29 @@
 <details>
 <summary>11. 성시원(spo2)(자세히)</summary>
 
-
+![image](https://user-images.githubusercontent.com/70633080/110610257-6524f180-81d1-11eb-9518-ade9a62db83f.png)
+1. 11_0.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609333-75889c80-81d0-11eb-9b97-906ef4278201.png)
+2. 11_1.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609461-93ee9800-81d0-11eb-86c1-b8006fb8e6e3.png)
+3. 11_2.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609544-ab2d8580-81d0-11eb-8846-1e55b4bb8aa7.png)
+4. 11_3.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609626-c0a2af80-81d0-11eb-94ba-1b1310318ca3.png)
+5. 11_4.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609692-d31ce900-81d0-11eb-98ac-0304c7c0cb7a.png)
+6. 11_5.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609776-e6c84f80-81d0-11eb-918b-ed90cfecdb59.png)
+7. 11_6.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609844-fba4e300-81d0-11eb-9fa9-2cb763371293.png)
+8. 11_7.csv\
+![image](https://user-images.githubusercontent.com/70633080/110609909-111a0d00-81d1-11eb-8af6-5b4192311793.png)
+9. 11_8.csv\
+![image](https://user-images.githubusercontent.com/70633080/110610000-27c06400-81d1-11eb-91ad-52fdfbb39020.png)
+10. 11_9.csv\
+![image](https://user-images.githubusercontent.com/70633080/110610099-3c046100-81d1-11eb-9c5c-4c907c62446a.png)
+11. 11_10.csv\
+![image](https://user-images.githubusercontent.com/70633080/110610185-52122180-81d1-11eb-9660-8981c2d6f731.png)
 
 </div>
 </details>

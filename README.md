@@ -37,8 +37,11 @@
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
 # 발전
 - norm뺴고해보기 (결과조금더 좋은거같기도,,)\
-- 아래는 11번 
-![image](https://user-images.githubusercontent.com/70633080/110612867-f301dc00-81d3-11eb-818c-2e6ff0d647f1.png)
+  - 아래는 11번 
+  ![image](https://user-images.githubusercontent.com/70633080/110612867-f301dc00-81d3-11eb-818c-2e6ff0d647f1.png)
+- norm빼고 rppg filtering
+  - 11번예시
+  ![image](https://user-images.githubusercontent.com/70633080/110726268-7535e300-825c-11eb-9969-c18a5e8bab6f.png)
 
 # Result
 

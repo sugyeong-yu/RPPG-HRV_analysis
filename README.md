@@ -42,6 +42,9 @@
 - norm빼고 rppg filtering
   - 11번예시
   ![image](https://user-images.githubusercontent.com/70633080/110726268-7535e300-825c-11eb-9969-c18a5e8bab6f.png)
+  - 타이밍이 안맞거나 거기서거기 더 좋은경우도 있음. 
+  - filtering을 하냐안하냐는 큰차이는 없지만 더 안좋아지거나 좋아지는 경우도 있긴함,, 뒤죽박죽
+- 소의 ppg로 해보기 (타이밍문제고려)
 
 # Result
 

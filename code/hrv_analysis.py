@@ -100,7 +100,7 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
     plt.xlim([0, 4])
     plt.show()
 
-    #ppg_data = preprocessing(ppg_data, 2.0, 0.5, sr) # FIR_filter(ppg_data,sr,20,0.032,True)
+    ppg_data = preprocessing(ppg_data, 2.0, 0.5, sr) # FIR_filter(ppg_data,sr,20,0.032,True)
 
 
     #ppg_scaled=normalization(ppg_data)
@@ -126,16 +126,16 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
 
 
 
-
-    # ppi 비교
-    # ppi 시각화
-    if len(cppg_ppi)>len(rppg_ppi):
-        cppg_ppi=cppg_ppi[:len(rppg_ppi)]
-    elif len(cppg_ppi)<len(rppg_ppi):
-        rppg_ppi=rppg_ppi[:len(cppg_ppi)]
-    plt.scatter(rppg_ppi,cppg_ppi)
-    plt.plot([0.25,1.5],[0.25,1.5],color='red',linestyle='--')
-    plt.show()
+    #
+    # # ppi 비교
+    # # ppi 시각화
+    # if len(cppg_ppi)>len(rppg_ppi):
+    #     cppg_ppi=cppg_ppi[:len(rppg_ppi)]
+    # elif len(cppg_ppi)<len(rppg_ppi):
+    #     rppg_ppi=rppg_ppi[:len(cppg_ppi)]
+    # plt.scatter(rppg_ppi,cppg_ppi)
+    # plt.plot([0.25,1.5],[0.25,1.5],color='red',linestyle='--')
+    # plt.show()
 
 
 
@@ -149,24 +149,24 @@ def hrv_analysis(cpath,rpath,save_path,c_sr,r_sr):
 if __name__ == "__main__":
     save_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\hrv_features\\5. no_norm(p400+spo2)\\"
     # for i in range(17):
-    i=10
-    cf = open(save_path + str(i + 1) + "_cppg.csv", 'w', newline='')
+    i=16 # 0~16
+    cf = open(save_path + str(i + 1) + "_cppg_.csv", 'w', newline='')
     cwr = csv.writer(cf)
-    rf = open(save_path + str(i + 1) + "_rppg.csv", 'w', newline='')
+    rf = open(save_path + str(i + 1) + "_rppg_.csv", 'w', newline='')
     rwr = csv.writer(rf)
     for j in range(11):
-        cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\3-1.cut_cppg(spo2)"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
-        rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\3-1.cut_rppg(spo2)"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
+        cppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\2-1.cut_cppg(p400+spo2)"+"\\cppg"+str(i+1)+"_"+str(j)+".csv"
+        rppg_path="E:\prlab\ysg\\rppg\\rppg_HRV\data\ppg_signal\\2-1.cut_rppg(p400+spo2)"+"\\rppg"+str(i+1)+"_"+str(j)+".csv"
 
         if os.path.isfile(cppg_path) == False or os.path.isfile(rppg_path) == False:
             continue
 
-        # if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
-        c_sr=60
-        r_sr=30
-        # else:
-        #     c_sr=200
-        #     r_sr=30
+        if ((i+1) == 6 or (i+1) ==8 or (i+1) ==10 or (i+1) ==11):
+            c_sr=60
+            r_sr=30
+        else:
+            c_sr=200
+            r_sr=30
 
         # hrv 분석
         cppg_frequency_features,rppg_frequency_features=hrv_analysis(cppg_path,rppg_path,save_path,c_sr,r_sr)

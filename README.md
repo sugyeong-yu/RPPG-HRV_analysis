@@ -157,278 +157,138 @@
 ## After Data shift
 
 ### device & With or Without filtering
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|O|X|
+|SPO2|O|X|
+|soeui|O|X|
 
 <details>
 <summary>1.김나혜(P400)(자세히)</summary>
 
-![image](https://user-images.githubusercontent.com/70633080/110087300-cfefba80-7dd6-11eb-9853-e5d7dfcdf376.png)
-- 1_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110082923-5b664d00-7dd1-11eb-885b-961366d5aef1.png)
-- 1_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110083078-91a3cc80-7dd1-11eb-9b91-edaf70610bb0.png)
-3. 1_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110083285-e0e9fd00-7dd1-11eb-9a6d-c8bae9b266a7.png)
-4. 1_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110083393-fd863500-7dd1-11eb-95a0-03fa66ee7a30.png)
-5. 1_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110083467-11ca3200-7dd2-11eb-8b32-b9f7e7b4d054.png)
-6. 1_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110083532-27d7f280-7dd2-11eb-881f-dec335ebfdc8.png)
-7. 1_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110087770-6b812b00-7dd7-11eb-873e-b19ff2f5df46.png)
-8. 1_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110087833-80f65500-7dd7-11eb-9d89-763027d203b5.png)
-9. 1_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110087909-966b7f00-7dd7-11eb-9793-ed7744bd2139.png)
-10. 1_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110087994-ab481280-7dd7-11eb-86a7-88b2d340f14f.png)
-11. 1_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110088104-c74bb400-7dd7-11eb-8d0d-c797627a511d.png)
-</div>
-</details>
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|8|7|
+|SPO2|8|7|
+|soeui|**9**|7|
 
-<details>
-<summary>2. 김소의(p400)(자세히)</summary>
+![O](https://user-images.githubusercontent.com/70633080/110915695-50746500-835b-11eb-92bf-8cd154344479.png)
+![X](https://user-images.githubusercontent.com/70633080/110915712-54a08280-835b-11eb-89bc-018afd560268.png)
 
-![image](https://user-images.githubusercontent.com/70633080/110274487-475d5e00-8012-11eb-886c-619621fb7902.png)
-1. 2_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110273858-d9fcfd80-8010-11eb-9aa3-5f71da0582a7.png)
-2. 2_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110273905-f4cf7200-8010-11eb-82f8-19ea0f14f9df.png)
-3. 2_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110273963-14669a80-8011-11eb-8268-e76f30c4ebfe.png)
-4. 2_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274003-2ea07880-8011-11eb-9920-2a3136bea23a.png)
-5. 2_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274050-4546cf80-8011-11eb-8c8b-671d63b9b0ef.png)
-6. 2_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274193-98b91d80-8011-11eb-9c95-b3547b3dff5d.png)
-7. 2_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274237-b4242880-8011-11eb-94f3-0c83e4c31705.png)
-8. 2_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274291-d0c06080-8011-11eb-827c-b4d978192af5.png)
-9. 2_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274327-e9c91180-8011-11eb-9511-14a7770a40cb.png)
-10. 2_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110274360-02392c00-8012-11eb-97f1-6fa1546e8208.png)
-11. 2_10.csv\ 
-![image](https://user-images.githubusercontent.com/70633080/110274424-23018180-8012-11eb-8318-0dae8df7e2c3.png)
+![O](https://user-images.githubusercontent.com/70633080/110915803-7568d800-835b-11eb-82bd-c7031cf8e99f.png)
+![X](https://user-images.githubusercontent.com/70633080/110915822-7c8fe600-835b-11eb-90e3-3830f5d65ee6.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110915998-aba65780-835b-11eb-8854-a5375a35e8a8.png)
+![X](https://user-images.githubusercontent.com/70633080/110916020-b19c3880-835b-11eb-973d-a6bcdc798262.png)
 
 </div>
 </details>
 
 <details>
-<summary>3. 김나혜(P400)(자세히)</summary>
+<summary>2. 유수경(SPO2)(자세히)</summary>
 
-![image](https://user-images.githubusercontent.com/70633080/110293745-4b997380-8032-11eb-8fe2-2eb154d5ea88.png)
-1. 3_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110292880-3839d880-8031-11eb-8e7d-d606423b112d.png)
-2. 3_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293032-691a0d80-8031-11eb-8083-7674e4a586a6.png)
-3. 3_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293121-818a2800-8031-11eb-9ccd-1fce92547f72.png)
-4. 3_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293177-95ce2500-8031-11eb-8119-2ce7d52dc0a6.png)
-5. 3_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293233-aa122200-8031-11eb-88a3-537ea67c1f03.png)
-6. 3_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293300-c01fe280-8031-11eb-8b28-fa9323d3758f.png)
-7. 3_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293383-d7f76680-8031-11eb-9172-81d614fd0942.png)
-8. 3_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293448-ee9dbd80-8031-11eb-9b52-fa9af0b1bc5a.png)
-9. 3_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293521-04ab7e00-8032-11eb-8405-22820b744e10.png)
-10. 3_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293585-1a20a800-8032-11eb-951e-03e86bdda1e1.png)
-11. 3_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110293668-34f31c80-8032-11eb-8522-03fbcb627a92.png)
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|9|9|
+|SPO2|8|**10**|
+|soeui|8|6|
+
+![O](https://user-images.githubusercontent.com/70633080/110916562-4868f500-835c-11eb-9d9e-bc4affb90d75.png)
+![X](https://user-images.githubusercontent.com/70633080/110916571-4acb4f00-835c-11eb-9799-e98b8184ede7.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110916654-60d90f80-835c-11eb-93b4-3b3aee2fa42e.png)
+![X](https://user-images.githubusercontent.com/70633080/110916667-65052d00-835c-11eb-8200-2fc17ea633b9.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110916733-74847600-835c-11eb-8f6a-2fb7dc1f0854.png)
+![X](https://user-images.githubusercontent.com/70633080/110916754-7817fd00-835c-11eb-90c6-04956336b31b.png)
 
 </div>
 </details>
 
 <details>
-<summary>4. 김소의(P400)(자세히)</summary>
+<summary>3. 김소의(P400)(자세히)</summary>
 
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|6|9|
+|SPO2|**9**|**9**|
+|soeui|8|6|
+
+![O](https://user-images.githubusercontent.com/70633080/110917198-fc6a8000-835c-11eb-83dd-4e3f0076bf0e.png)
+![X](https://user-images.githubusercontent.com/70633080/110917221-02f8f780-835d-11eb-8438-42d6e21dd181.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110917304-1c9a3f00-835d-11eb-8625-83b729a68ece.png)
+![X](https://user-images.githubusercontent.com/70633080/110917308-1efc9900-835d-11eb-86e6-5525cbc6834c.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110917375-2fad0f00-835d-11eb-9c09-d1e8bb8c84c8.png)
+![X](https://user-images.githubusercontent.com/70633080/110917382-3176d280-835d-11eb-9dba-23353c0694f8.png)
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>4. 이승건(SPO2)(자세히)</summary>
+
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|7|**10**|
+|SPO2|8|9|
+|soeui|7|**10**|
+
+![O](https://user-images.githubusercontent.com/70633080/110917963-e1e4d680-835d-11eb-92cf-44a09101ead0.png)
+![X](https://user-images.githubusercontent.com/70633080/110917979-e6a98a80-835d-11eb-8d7e-b884ef630fdb.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110918020-f45f1000-835d-11eb-8d6a-73b13455f713.png)
+![X](https://user-images.githubusercontent.com/70633080/110918023-f5903d00-835d-11eb-846c-80f1e42da5db.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110918045-fde87800-835d-11eb-91a2-796b38475bdb.png)
+![X](https://user-images.githubusercontent.com/70633080/110918050-ffb23b80-835d-11eb-875e-52a3fda4e257.png)
 
 
 </div>
 </details>
 
 <details>
-<summary>5. 김나혜(P400)(자세히)</summary>
+<summary>5. 목지원(P400)(자세히)</summary>
 
-![image](https://user-images.githubusercontent.com/70633080/110295170-260d6980-8034-11eb-856c-0d00c264257d.png)
-1. 5_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474192-baee9080-8122-11eb-9995-58e9b9d98f15.png)
-2. 5_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474271-d194e780-8122-11eb-8fcf-df2d65c8cd13.png)
-3. 5_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474341-e6717b00-8122-11eb-81ad-65c2a0b12ca3.png)
-4. 5_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474412-f8ebb480-8122-11eb-858d-a7dc6e6de0fb.png)
-5. 5_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474488-115bcf00-8123-11eb-9648-6c2ae8c2939e.png)
-6. 5_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474531-220c4500-8123-11eb-93ce-5becc5737e44.png)
-7. 5_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474582-2fc1ca80-8123-11eb-8c85-d130deec73d1.png)
-8. 5_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474622-3d775000-8123-11eb-83d2-326e96531eb7.png)
-9. 5_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474670-4b2cd580-8123-11eb-8e2c-836ad2072ef2.png)
-10. 5_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474778-6dbeee80-8123-11eb-8759-153a6f1b0b50.png)
-11. 5_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110474849-816a5500-8123-11eb-8ed6-f973e039c2f9.png)
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|6|6|
+|SPO2|8|8|
+|soeui|**9**|8|
+
+![O](https://user-images.githubusercontent.com/70633080/110918535-a0a0f680-835e-11eb-8248-0c834ee96641.png)
+![X](https://user-images.githubusercontent.com/70633080/110918550-a26aba00-835e-11eb-80d9-c2fe6a337b8e.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110918689-ca5a1d80-835e-11eb-84cb-c430baaf954f.png)
+![X](https://user-images.githubusercontent.com/70633080/110918697-cc23e100-835e-11eb-8817-8248843cebaa.png)
+
+![O](https://user-images.githubusercontent.com/70633080/110918830-f07fbd80-835e-11eb-83e8-81d0b415e171.png)
+![X](https://user-images.githubusercontent.com/70633080/110918839-f2e21780-835e-11eb-91e2-830fc1e3a437.png)
 
 </div>
 </details>
 
 <details>
-<summary>6. 유수경(spo2)(자세히)</summary>
+<summary>6. 한나연(spo2)(자세히)</summary>
 
-![image](https://user-images.githubusercontent.com/70633080/110475132-d4dca300-8123-11eb-819a-25efe6eb6afe.png)
-1. 6_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475624-75cb5e00-8124-11eb-8ee0-c4401546c4c1.png)
-2. 6_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475684-8c71b500-8124-11eb-8b18-130473963666.png)
-3. 6_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475768-a1e6df00-8124-11eb-8928-2e02f705d93b.png)
-4. 6_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475829-af9c6480-8124-11eb-8f4e-3d0d24321cdb.png)
-5. 6_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475877-be831700-8124-11eb-94c7-696e1fc92217.png)
-6. 6_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475957-ce9af680-8124-11eb-9232-0abf7e5d87e9.png)
-7. 6_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110475993-dc507c00-8124-11eb-8277-ba6f95fd28c8.png)
-8. 6_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476067-ee321f00-8124-11eb-9ab1-8faacf71295b.png)
-9. 6_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476136-fee29500-8124-11eb-80ca-fc62066f2023.png)
-10. 6_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476199-10c43800-8125-11eb-8616-e89ffd49e38a.png)
-11. 6_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476269-20dc1780-8125-11eb-9f62-7dc367e54d48.png)
+|기기|filtering O|filtering X|
+|------|---|---|
+|P400|6|6|
+|SPO2|**9**|8|
+|soeui|8|6|
 
-</div>
-</details>
+![O](https://user-images.githubusercontent.com/70633080/110919068-2fae0e80-835f-11eb-855d-d3fefbe1cf79.png)
+![X](https://user-images.githubusercontent.com/70633080/110919081-33419580-835f-11eb-8889-a9ce2bf26724.png)
 
-<details>
-<summary>7. 김소의(P400)(자세히)</summary>
+![O](https://user-images.githubusercontent.com/70633080/110919165-4b191980-835f-11eb-9e73-5a7054b7c990.png)
+![X](https://user-images.githubusercontent.com/70633080/110919169-4ce2dd00-835f-11eb-8c29-2d959b597f5e.png)
 
-![image](https://user-images.githubusercontent.com/70633080/110477965-233f7100-8127-11eb-8114-e684a61f52f5.png)
-1. 7_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476700-9c3dc900-8125-11eb-96df-779dcb4d4b86.png)
-2. 7_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476739-abbd1200-8125-11eb-875c-0dc283817402.png)
-3. 7_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476827-c7281d00-8125-11eb-895b-ae9ebf39bc95.png)
-4. 7_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476902-dc9d4700-8125-11eb-9c47-dd5f1ca6aeae.png)
-5. 7_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110476958-f63e8e80-8125-11eb-9a20-cf5a617ad1bc.png)
-6. 7_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477043-09515e80-8126-11eb-9467-c540fbb542fc.png)
-7. 7_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477493-93012c00-8126-11eb-8744-afd6a3a795e5.png)
-8. 7_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477574-ad3b0a00-8126-11eb-80fd-e160e66bb7be.png)
-9. 7_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477654-c643bb00-8126-11eb-9b4d-60634ddefb84.png)
-10. 7_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477712-d8255e00-8126-11eb-8bdb-2735d666ee1a.png)
-11. 7_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110477776-ec695b00-8126-11eb-86da-951fa4e95937.png)
-
-</div>
-</details>
-
-<details>
-<summary>8. 이승건(spo2)(자세히)</summary>
-
-![image](https://user-images.githubusercontent.com/70633080/110604199-27bd6580-81cb-11eb-8a78-8ec5aa4ef629.png)
-1. 8_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604380-5afff480-81cb-11eb-9396-63528d18579d.png)
-2. 8_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604412-68b57a00-81cb-11eb-9ebc-b8ac2548d0d9.png)
-3. 8_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604718-b7631400-81cb-11eb-850d-bf0bc62c8b15.png)
-4. 8_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604463-766aff80-81cb-11eb-8d5d-935c23e34847.png)
-5. 8_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604533-8b479300-81cb-11eb-84cc-bd846c1f6b17.png)
-6. 8_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604767-c5b13000-81cb-11eb-86d1-61509ee08ab2.png)
-7. 8_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604814-d661a600-81cb-11eb-8d25-d22f5a013eeb.png)
-8. 8_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604885-ea0d0c80-81cb-11eb-992f-a5e177e5b533.png)
-9. 8_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110604965-fd1fdc80-81cb-11eb-8a62-65d94e637302.png)
-10. 8_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110605016-0ad56200-81cc-11eb-9f40-7f2371c9eeb8.png)
-11. 8_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110605078-188ae780-81cc-11eb-9048-7fab9bf6b504.png)
-
-</div>
-</details>
-
-<details>
-<summary>9. 목지원(P400)(자세히)</summary>
-
-![image](https://user-images.githubusercontent.com/70633080/110607697-cc8d7200-81ce-11eb-99b8-dec581a927e8.png)
-1. 9_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110605440-7ae3e800-81cc-11eb-98ce-e831dd5097fa.png)
-2. 9_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110605505-8afbc780-81cc-11eb-8a3d-4d185d5d3e6f.png)
-3. 9_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110605598-9f3fc480-81cc-11eb-8fa3-37e4e682352e.png)
-4. 9_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607028-217cb880-81ce-11eb-8e71-88c06017cbcd.png)
-5. 9_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607096-35c0b580-81ce-11eb-8497-5a6f4488bf9a.png)
-6. 9_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607196-4ec96680-81ce-11eb-866b-ee89c81a469d.png)
-7. 9_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607275-61dc3680-81ce-11eb-8267-963604134dfd.png)
-8. 9_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607359-75879d00-81ce-11eb-91af-44559810c964.png)
-9. 9_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607455-8f28e480-81ce-11eb-86e0-4124b94fb910.png)
-10. 9_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607538-a5cf3b80-81ce-11eb-9892-d6d497c4a5f4.png)
-11. 9_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110607625-b8497500-81ce-11eb-8769-6c893e608c17.png)
-
-</div>
-</details>
-
-<details>
-<summary>10. 한나연(spo2)(자세히)</summary>
-
-![image](https://user-images.githubusercontent.com/70633080/110609009-2478a880-81d0-11eb-9003-49f39c992059.png)
-1. 10_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608159-51788b80-81cf-11eb-8e52-c754ac8f32f4.png)
-2. 10_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608252-69e8a600-81cf-11eb-88e5-dfea4ed304aa.png)
-3. 10_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608326-7cfb7600-81cf-11eb-9f86-7ed36fe20b9a.png)
-4. 10_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608429-96042700-81cf-11eb-847d-0f17b76b0552.png)
-5. 10_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608522-acaa7e00-81cf-11eb-884b-01822a8a1fbe.png)
-6. 10_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608601-be8c2100-81cf-11eb-9918-758584439a2b.png)
-7. 10_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608701-d368b480-81cf-11eb-8b39-5d34eb9556ad.png)
-8. 10_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608797-e9767500-81cf-11eb-8947-437154e8a260.png)
-9. 10_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608869-fd21db80-81cf-11eb-86cd-94a6516adb1d.png)
-10. 10_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110608933-0f9c1500-81d0-11eb-9696-5cce27d3d754.png)
+![O](https://user-images.githubusercontent.com/70633080/110919337-7c91e500-835f-11eb-962c-a0705c4f518f.png)
+![X](https://user-images.githubusercontent.com/70633080/110919347-7e5ba880-835f-11eb-9fa3-d2b10044e3fa.png)
 
 </div>
 </details>
@@ -437,29 +297,7 @@
 <details>
 <summary>11. 성시원(spo2)(자세히)</summary>
 
-![image](https://user-images.githubusercontent.com/70633080/110610257-6524f180-81d1-11eb-9518-ade9a62db83f.png)
-1. 11_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609333-75889c80-81d0-11eb-9b97-906ef4278201.png)
-2. 11_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609461-93ee9800-81d0-11eb-86c1-b8006fb8e6e3.png)
-3. 11_2.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609544-ab2d8580-81d0-11eb-8846-1e55b4bb8aa7.png)
-4. 11_3.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609626-c0a2af80-81d0-11eb-94ba-1b1310318ca3.png)
-5. 11_4.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609692-d31ce900-81d0-11eb-98ac-0304c7c0cb7a.png)
-6. 11_5.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609776-e6c84f80-81d0-11eb-918b-ed90cfecdb59.png)
-7. 11_6.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609844-fba4e300-81d0-11eb-9fa9-2cb763371293.png)
-8. 11_7.csv\
-![image](https://user-images.githubusercontent.com/70633080/110609909-111a0d00-81d1-11eb-8af6-5b4192311793.png)
-9. 11_8.csv\
-![image](https://user-images.githubusercontent.com/70633080/110610000-27c06400-81d1-11eb-91ad-52fdfbb39020.png)
-10. 11_9.csv\
-![image](https://user-images.githubusercontent.com/70633080/110610099-3c046100-81d1-11eb-9c5c-4c907c62446a.png)
-11. 11_10.csv\
-![image](https://user-images.githubusercontent.com/70633080/110610185-52122180-81d1-11eb-9660-8981c2d6f731.png)
+
 
 </div>
 </details>
@@ -484,27 +322,6 @@
 <summary>14. 황현상(P400)(자세히)</summary>
 
 
-1. 14_0.csv\
-![image](https://user-images.githubusercontent.com/70633080/110891223-eba61400-8334-11eb-8c71-5a2425ff8aab.png)
-2. 14_1.csv\
-![image](https://user-images.githubusercontent.com/70633080/110891286-0d9f9680-8335-11eb-976b-771b31efd8a0.png)
-3. 14_2.csv\
-
-4. 14_3.csv\
-
-5. 14_4.csv\
-
-6. 14_5.csv\
-
-7. 14_6.csv\
-
-8. 14_7.csv\
-
-9. 14_8.csv\
-
-10. 14_9.csv\
-
-11. 14_10.csv\
 
 </div>
 </details>

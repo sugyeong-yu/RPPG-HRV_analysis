@@ -35,26 +35,23 @@
     7. ppi 계산 : hrv분석에서 필요한 것은 ppi(peak간의 간격) 데이터이기 때문에 찾은 peak를 통해 ppi를 계산한다.
     8. hrv feature extract : hrv 특징을 추출해주는 모듈을 사용하여 각 특징들을 뽑는다.
     9. Cppg vs Rppg : 각 특징 값을 비교한다.
-# 발전
-- norm뺴고해보기 (결과조금더 좋은거같기도,,)\
-  - 아래는 11번 
-  ![image](https://user-images.githubusercontent.com/70633080/110612867-f301dc00-81d3-11eb-818c-2e6ff0d647f1.png)
-- norm빼고 rppg filtering
-  - 11번예시
-  ![image](https://user-images.githubusercontent.com/70633080/110726268-7535e300-825c-11eb-9969-c18a5e8bab6f.png)
-  - 타이밍이 안맞거나 거기서거기 더 좋은경우도 있음. 
-  - filtering을 하냐안하냐는 큰차이는 없지만 더 안좋아지거나 좋아지는 경우도 있긴함,, 뒤죽박죽
-- 소의 ppg로 해보기 (타이밍문제고려)
-
+# 실험 경우의 수
+- 기기 3개 ( P400, SPO2, 소의PPG)
+- filtering ( cppg&rppg or only cppg )
+- norm ( O or X )
 # Result
 
 - [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
   - Data를 cutting & shift하여 데이터의 수를 늘린다.
-  - [RPPG 전처리 적용 전 결과](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
-  - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
-    - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.
-    - 이를 대비하여 bandpass filter를 추가로 적용해본다.
+  - [1.기기 별]
+  - [2.rppg_filtering 유무]
+    - [RPPG 전처리 적용 전 결과](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
+    - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
+      - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.
+      - 이를 대비하여 bandpass filter를 추가로 적용해본다.
+  - [3.normalization 유무]
+  
 
 ## Before Data shift
 ### 1. P400
@@ -485,6 +482,27 @@
 <summary>14. 황현상(P400)(자세히)</summary>
 
 
+1. 14_0.csv\
+![image](https://user-images.githubusercontent.com/70633080/110891223-eba61400-8334-11eb-8c71-5a2425ff8aab.png)
+2. 14_1.csv\
+![image](https://user-images.githubusercontent.com/70633080/110891286-0d9f9680-8335-11eb-976b-771b31efd8a0.png)
+3. 14_2.csv\
+
+4. 14_3.csv\
+
+5. 14_4.csv\
+
+6. 14_5.csv\
+
+7. 14_6.csv\
+
+8. 14_7.csv\
+
+9. 14_8.csv\
+
+10. 14_9.csv\
+
+11. 14_10.csv\
 
 </div>
 </details>

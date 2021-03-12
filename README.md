@@ -41,13 +41,13 @@
 - norm ( O or X )
 # Result
 
-- [Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
-- [Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
+- [0.Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
+- [0.Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
   - Data를 cutting & shift하여 데이터의 수를 늘린다.
   - [1.기기 별]
   - [2.rppg_filtering 유무]
-    - [RPPG 전처리 적용 전 결과](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
-    - [RPPG 전처리 적용 후 결과 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
+    - [RPPG 전처리 적용 전 PPI](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
+    - [RPPG 전처리 적용 후 PPI 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
       - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.
       - 이를 대비하여 bandpass filter를 추가로 적용해본다.
   - [3.normalization 유무]
@@ -155,6 +155,8 @@
 
 
 ## After Data shift
+
+### device & With or Without filtering
 
 <details>
 <summary>1.김나혜(P400)(자세히)</summary>

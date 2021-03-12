@@ -44,8 +44,8 @@
 - [0.Data shift 적용 전](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#before-data-shift)
 - [0.Data shift 적용 후](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#after-data-shift)
   - Data를 cutting & shift하여 데이터의 수를 늘린다.
-  - [1.기기 별]
-  - [2.rppg_filtering 유무]
+  - [1.기기 별](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#device--with-or-without-filtering)
+  - [2.rppg_filtering 유무](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#device--with-or-without-filtering)
     - [RPPG 전처리 적용 전 PPI](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%EC%A0%84)
     - [RPPG 전처리 적용 후 PPI 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
       - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.

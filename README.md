@@ -350,7 +350,7 @@
 </div>
 </details>
 
-### rppg filtering 과정 전
+#### rppg filtering 과정 전
 - PPI비교
   - 잘 나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
@@ -358,7 +358,7 @@
   - 잘못나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
-### rppg filtering 과정 후 
+#### rppg filtering 과정 후 
 - PPI
   - (왼: before -> 오: after)\
   ![image](https://user-images.githubusercontent.com/70633080/110288542-864bdd80-802b-11eb-941d-244746171e75.png)
@@ -370,3 +370,18 @@
 - PPI 그래프는 향상됨을 볼 수 있음
 - 그러나 hrv feature graph에서는 성능이 좋아지거나 안좋아지거나 비슷하거나 하는 다양한 경우가 발생
 - 하나 안하나 거기서 거기,,?
+
+###  With or Without Normalization
+
+|기기|Norm O|Norm X|
+|------|---|---|
+|SPO2(filtering)|||
+
+
+<details>
+<summary>11. 성시원(spo2)(자세히)</summary>
+
+
+
+</div>
+</details>

@@ -50,7 +50,7 @@
     - [RPPG 전처리 적용 후 PPI 비교](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#rppg-filtering-%EA%B3%BC%EC%A0%95-%ED%9B%84)
       - bandwidth filtering을 거쳤지만 안정적이지 못한 rppg신호로 인해 결과가 잘 나오지 않는 경우가 있다.
       - 이를 대비하여 bandpass filter를 추가로 적용해본다.
-  - [3.normalization 유무]
+  - [3.normalization 유무](https://github.com/sugyeong-yu/rppg_HRV/blob/main/README.md#with-or-without-normalization)
   
 
 ## Before Data shift

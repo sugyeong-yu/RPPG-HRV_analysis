@@ -357,7 +357,7 @@
   ![image](https://user-images.githubusercontent.com/70633080/110275100-c010ea00-8013-11eb-8ec6-e5f1f7e42964.png)
   - 잘못나온 예시(대부분)\
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
-  ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)\
   ![image](https://user-images.githubusercontent.com/70633080/111256424-63897c80-865c-11eb-8077-3b2bf1d5c791.png)
   ![image](https://user-images.githubusercontent.com/70633080/111256441-6dab7b00-865c-11eb-90e6-75bfe87adebc.png)
   
@@ -369,17 +369,17 @@
   ![before](https://user-images.githubusercontent.com/70633080/110287619-2d2f7a00-802a-11eb-850d-e74af12a3152.png)
   ![after](https://user-images.githubusercontent.com/70633080/110287462-ea6da200-8029-11eb-9626-97bc6a8326e9.png)
   ![image](https://user-images.githubusercontent.com/70633080/110290153-c613c480-802d-11eb-9c8c-672457252155.png)
-  ![image](https://user-images.githubusercontent.com/70633080/110290156-c90eb500-802d-11eb-89dd-f15c6dcecb85.png)
+  ![image](https://user-images.githubusercontent.com/70633080/110290156-c90eb500-802d-11eb-89dd-f15c6dcecb85.png)\
   ![before](https://user-images.githubusercontent.com/70633080/111256452-74d28900-865c-11eb-83d2-5dec27c411f0.png)
-  ![after](https://user-images.githubusercontent.com/70633080/111256463-7a2fd380-865c-11eb-804c-70d0bd869950.png)
+  ![after](https://user-images.githubusercontent.com/70633080/111256463-7a2fd380-865c-11eb-804c-70d0bd869950.png)\
   ![before](https://user-images.githubusercontent.com/70633080/111256480-8451d200-865c-11eb-9440-a290dc868a3b.png)
   ![after](https://user-images.githubusercontent.com/70633080/111256488-874cc280-865c-11eb-95a1-fe0bb0124ede.png)
 - PPI 자세히보기
   - 잘나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/111256550-ac413580-865c-11eb-8e07-c97c113e6d1f.png)
   - 잘못나온 예시\
-  ![image](https://user-images.githubusercontent.com/70633080/111256535-a4819100-865c-11eb-8a70-227849ea5ca7.png)
-  ![image](https://user-images.githubusercontent.com/70633080/111256538-a64b5480-865c-11eb-854d-e6062a60077a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111257329-43f35380-865e-11eb-9337-26c8f51af12f.png)\
+  ![image](https://user-images.githubusercontent.com/70633080/111256538-a64b5480-865c-11eb-854d-e6062a60077a.png)\
   ![image](https://user-images.githubusercontent.com/70633080/111256586-c0853280-865c-11eb-8ef5-44ff5994b240.png)
 
 - PPI 그래프로 그려보기

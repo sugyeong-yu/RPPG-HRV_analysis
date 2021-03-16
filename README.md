@@ -355,9 +355,12 @@
   - 잘 나온 예시\
   ![image](https://user-images.githubusercontent.com/70633080/110275093-b7b8af00-8013-11eb-9d54-3d2bd271d1d6.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275100-c010ea00-8013-11eb-8ec6-e5f1f7e42964.png)
-  - 잘못나온 예시\
+  - 잘못나온 예시(대부분)\
   ![image](https://user-images.githubusercontent.com/70633080/110275053-a40d4880-8013-11eb-89ee-84269ad57e57.png)
   ![image](https://user-images.githubusercontent.com/70633080/110275066-aa9bc000-8013-11eb-8ea5-0c6db012df2a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256424-63897c80-865c-11eb-8077-3b2bf1d5c791.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256441-6dab7b00-865c-11eb-90e6-75bfe87adebc.png)
+  
 #### rppg filtering 과정 후 
 - PPI
   - (왼: before -> 오: after)\
@@ -367,7 +370,35 @@
   ![after](https://user-images.githubusercontent.com/70633080/110287462-ea6da200-8029-11eb-9626-97bc6a8326e9.png)
   ![image](https://user-images.githubusercontent.com/70633080/110290153-c613c480-802d-11eb-9c8c-672457252155.png)
   ![image](https://user-images.githubusercontent.com/70633080/110290156-c90eb500-802d-11eb-89dd-f15c6dcecb85.png)
-- PPI 그래프는 향상됨을 볼 수 있음
+  ![before](https://user-images.githubusercontent.com/70633080/111256452-74d28900-865c-11eb-83d2-5dec27c411f0.png)
+  ![after](https://user-images.githubusercontent.com/70633080/111256463-7a2fd380-865c-11eb-804c-70d0bd869950.png)
+  ![before](https://user-images.githubusercontent.com/70633080/111256480-8451d200-865c-11eb-9440-a290dc868a3b.png)
+  ![after](https://user-images.githubusercontent.com/70633080/111256488-874cc280-865c-11eb-95a1-fe0bb0124ede.png)
+- PPI 자세히보기
+  - 잘나온 예시
+  ![image](https://user-images.githubusercontent.com/70633080/111256550-ac413580-865c-11eb-8e07-c97c113e6d1f.png)
+  - 잘못나온 예시
+  ![image](https://user-images.githubusercontent.com/70633080/111256535-a4819100-865c-11eb-8a70-227849ea5ca7.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256538-a64b5480-865c-11eb-854d-e6062a60077a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256586-c0853280-865c-11eb-8ef5-44ff5994b240.png)
+
+- PPI 그래프로 그려보기
+  - cppg
+  ![image](https://user-images.githubusercontent.com/70633080/111256690-00e4b080-865d-11eb-9643-d03d0493b499.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256696-06da9180-865d-11eb-9a06-15240dda9b3d.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256767-27a2e700-865d-11eb-8e80-712cb41f5e09.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256792-35f10300-865d-11eb-8f7b-054d44baefd3.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256857-5c16a300-865d-11eb-8394-064b08306fa3.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256873-66d13800-865d-11eb-9c88-42dbb88e7e3d.png)
+  - rppg
+  ![image](https://user-images.githubusercontent.com/70633080/111256708-1063f980-865d-11eb-9921-8e4625637a8a.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256718-15c14400-865d-11eb-8c2e-1f784fa2429e.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256808-3db0a780-865d-11eb-82e8-f1c13d9d4d9c.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256816-430df200-865d-11eb-80fc-629e431eb505.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256972-9bdd8a80-865d-11eb-979f-f263a8622f64.png)
+  ![image](https://user-images.githubusercontent.com/70633080/111256982-a3049880-865d-11eb-9c7b-a8f3718318dc.png)
+
+- rppg filtering시 약간 향상됨을 볼 수 있음
 - 그러나 hrv feature graph에서는 성능이 좋아지거나 안좋아지거나 비슷하거나 하는 다양한 경우가 발생
 - 하나 안하나 거기서 거기,,?
 

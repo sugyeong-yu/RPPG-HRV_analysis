@@ -181,6 +181,10 @@
 ![O](https://user-images.githubusercontent.com/70633080/110915998-aba65780-835b-11eb-8854-a5375a35e8a8.png)
 ![X](https://user-images.githubusercontent.com/70633080/110916020-b19c3880-835b-11eb-973d-a6bcdc798262.png)
 
+#### 잘못된 case 분석(soeui)
+- 1번구간(1_0.csv)
+  - 30초~5분30초
+  
 </div>
 </details>
 

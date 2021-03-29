@@ -22,7 +22,16 @@
 4. rr interval 계산
 5. hrv feature extract
 
+## Process
+### 새로운 데이터
+- 본인의 데이터를 사용
+- data shift없이 앞,뒤 30초 자른 데이터 사용했음.
+- bandpass filtering 사용함
+- 그 결과, lf/hf 가 유사했고 lf에서 큰차이가 나지 않음. 
+- 비교적 hf에서 더 큰차이를 보임.
+### 데이터 shift
 
+## 관련 공부
 ### 1. pyserial
 - serial port connection을 도와주는 모듈 
 - python으로 usb직렬포트에 연결된 장치를 동작시킬 수 있도록 한다.

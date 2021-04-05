@@ -11,10 +11,10 @@
 
 ## Protocol
 1. 실험
-  - 얼굴 이미지와 cppg를 동시에 추출.
-  - 얼굴 이미지로 rppg를 추출
-  - cppg와 rppg의 시간 기록 및 맞춰주기
-  - data shift
+    - 얼굴 이미지와 cppg를 동시에 추출.
+    - 얼굴 이미지로 rppg를 추출
+    - cppg와 rppg의 시간 기록 및 맞춰주기
+    - data shift
 2. 신호 전처리
     - bandfass filtering
     - normalization(0~1)

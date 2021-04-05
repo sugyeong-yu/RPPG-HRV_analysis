@@ -20,6 +20,7 @@
     - normalization(0~1)
 3. Peak detection
 4. rr interval 계산
+    - 이상값 제거
 5. hrv feature extract
 
 ## Process

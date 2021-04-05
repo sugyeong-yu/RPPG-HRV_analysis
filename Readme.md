@@ -38,6 +38,25 @@
 - 미경(2) : 모두다 r의 hf가 더 높고 차이가 컸으며 lf에서는 차이가 그리 크지않았음.
 
 ## Result
+
+<details>
+<summary>1. 김나혜(자세히)</summary>
+    
+<details>
+<summary>Total(자세히)</summary> 
+
+![image](https://user-images.githubusercontent.com/70633080/113558403-97900600-963a-11eb-857c-fc127a82965b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113558373-8b0bad80-963a-11eb-8a9b-71303f8d56dd.png)
+
+- lf/hf
+    - cppg : 0.9445302760107445
+    - rppg : 0.761142338986123
+- lf 보다 hf의 차이가 4.183740904432091 배 크다.
+
+</div>
+</details>
+
+
 <details>
 <summary>3. 복진영(자세히)</summary>
 

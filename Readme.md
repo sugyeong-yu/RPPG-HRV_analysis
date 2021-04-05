@@ -16,8 +16,8 @@
   - cppg와 rppg의 시간 기록 및 맞춰주기
   - data shift
 2. 신호 전처리
-  - bandfass filtering
-  - normalization(0~1)
+    - bandfass filtering
+    - normalization(0~1)
 3. Peak detection
 4. rr interval 계산
 5. hrv feature extract
@@ -40,20 +40,9 @@
 <details>
 <summary>3. 복진영(자세히)</summary>
 
-|Shift|lf|hf|lf/hf|비고|
-|------|---|---|---|---|
-|Total|8|6||
-|3_0.csv|8|6||
-|3_1.csv|8|6||
-|3_2.csv|8|6||
-|3_3.csv|8|6||
-|3_4.csv|8|6||
-|3_5.csv|8|6||
-|3_6.csv|8|6||
-|3_7.csv|8|6||
-|3_8.csv|8|6||
-|3_9.csv|8|6||
-|3_10.csv|8|6||
+- lf/hf에 차이가 있음.
+- lf에도 약간의 차이가 있음
+- 그러나 lf에 비해 hf가 더 차이가 있었음.
 
 <details>
 <summary>3_0.csv(자세히)</summary>

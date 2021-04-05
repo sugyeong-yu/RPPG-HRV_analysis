@@ -57,6 +57,9 @@
 </details>
 
 
+</div>
+</details>
+
 <details>
 <summary>3. 복진영(자세히)</summary>
 

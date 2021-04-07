@@ -624,8 +624,8 @@
 <details>
 <summary>8. 유수경_3(자세히)</summary>
 
-- cppg data개수 모자람 168240개
 - Total : lf_hf_Ratio가 비슷하게 나왔음. **(1.722921074032543 , 1.4622911848470102)**
+    - cppg data개수 모자람 168240개
 - After Shift **(파랑 : c, 주황 : r)**
     <p align="left">
         <img src="https://user-images.githubusercontent.com/70633080/113863419-9bf82280-97e4-11eb-9d2d-62d434f20d97.png" weight="50%" height="50%">

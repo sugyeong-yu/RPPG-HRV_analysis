@@ -40,6 +40,35 @@
 ## Result
 
 <details>
+<summary>0. 유수경_1(자세히)</summary>
+
+ - Total : lf_hf_Ratio가 유사함. **(0.8577113522342822 , 00.8144823574325695)**
+ 
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113838042-61cd5780-97c9-11eb-8fba-d741ff7cc8e1.png)\
+![image](https://user-images.githubusercontent.com/70633080/113838066-672aa200-97c9-11eb-8ee7-b383f5c757a4.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113838111-6eea4680-97c9-11eb-99ba-507933ce1013.png)\
+![image](https://user-images.githubusercontent.com/70633080/113838130-73aefa80-97c9-11eb-8d8a-f44e89bc84b9.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113838164-7ad60880-97c9-11eb-9d8e-e60fe84360d3.png)\
+![image](https://user-images.githubusercontent.com/70633080/113838183-80335300-97c9-11eb-9b4c-353fae498da0.png)
+
+- lf/hf
+  - cppg : 0.8577113522342822
+  - rppg : 0.8144823574325695
+- lf보다 hf의 차이가 3.599346289022882 배 크다.
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
 <summary>1. 김나혜(자세히)</summary>
     
 <details>
@@ -527,6 +556,597 @@
 
 </div>
 </details>
+
+</div>
+</details>
+
+<details>
+<summary>4. 이승건(자세히)</summary>
+
+- cppg data개수 모자람 168199개
+- rppg data개수 모자람 19793개
+ - Total : lf_hf_Ratio가 차이가 있음. **(1.4807216224170776 , 0.6178131036269046)**
+    - lf는 거의 유사하지만 hf에서 큰 차이를 보임
+ 
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113837506-e2d81f00-97c8-11eb-8ba1-6f05b2b4cb9d.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837528-e9ff2d00-97c8-11eb-84ba-e273920b653b.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113837581-f4b9c200-97c8-11eb-8bbc-b879b8c68c68.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837606-fa170c80-97c8-11eb-8a7b-34a8f8be0d04.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113837635-013e1a80-97c9-11eb-8ee0-2201de5c8d4c.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837662-07cc9200-97c9-11eb-8842-78b78cf5cbe7.png)
+
+- lf/hf
+  - cppg : 1.4807216224170776
+  - rppg : 0.6178131036269046
+- lf보다 hf의 차이가 9.043222563802672 배 크다.
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>7. 유수경_2(자세히)</summary>
+
+- cppg data개수 모자람 168112개
+- Total : lf_hf_Ratio가 비슷하게 나왔음. **(2.4673490304430854 , 2.100023846724976)**
+ 
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113836997-5e859c00-97c8-11eb-8f28-002205e9f133.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837016-63e2e680-97c8-11eb-9201-c70c69ed677c.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113837054-6d6c4e80-97c8-11eb-83b0-336af1443196.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837076-72c99900-97c8-11eb-9b1b-36a40442da72.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113837114-7c530100-97c8-11eb-9582-2b8b7ba7e32e.png)\
+![image](https://user-images.githubusercontent.com/70633080/113837139-8248e200-97c8-11eb-86d6-67fe77272bd4.png)
+
+- lf/hf
+  - cppg : 2.4673490304430854
+  - rppg : 2.100023846724976
+- lf보다 hf의 차이가 1.7005547198891278 배 크다.
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>8. 유수경_3(자세히)</summary>
+
+- cppg data개수 모자람 168240개
+- Total : lf_hf_Ratio가 비슷하게 나왔음. **(1.722921074032543 , 1.4622911848470102)**
+ 
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113836532-eb7c2580-97c7-11eb-8c43-a20fdc66d5a6.png)\
+![image](https://user-images.githubusercontent.com/70633080/113836557-f20a9d00-97c7-11eb-800f-325712e5526a.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113836592-fb940500-97c7-11eb-9961-5e964e926cc9.png)\
+![image](https://user-images.githubusercontent.com/70633080/113836612-00f14f80-97c8-11eb-8757-2992c403c112.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113836649-0a7ab780-97c8-11eb-9de2-f7825088d962.png)\
+![image](https://user-images.githubusercontent.com/70633080/113836674-0f3f6b80-97c8-11eb-8e16-78ab9941ddca.png)
+
+- lf/hf
+  - cppg : 1.722921074032543
+  - rppg : 1.4622911848470102
+- lf보다 hf의 차이가 2.0438712349328543 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_0.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113856933-d78eee80-97dc-11eb-809e-43776af8a850.png)\
+![image](https://user-images.githubusercontent.com/70633080/113856945-dcec3900-97dc-11eb-8dc4-dfb567b4b37c.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113856974-e7a6ce00-97dc-11eb-9192-ef7dc8d549a6.png)\
+![image](https://user-images.githubusercontent.com/70633080/113856994-ed041880-97dc-11eb-9b0f-d226beff5167.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113857029-fb523480-97dc-11eb-935d-e11e03dd265f.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857052-0016e880-97dd-11eb-9197-e15d3210a312.png)
+
+- lf/hf
+  - cppg : 1.8588044938687627
+  - rppg : 1.5645267109183345
+- lf보다 hf의 차이가 1.4667556787248228 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_1.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113857173-263c8880-97dd-11eb-9b03-740427c30cee.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857198-2ccb0000-97dd-11eb-8521-82db4a101a66.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113857220-37859500-97dd-11eb-8dd2-78ac7d5c6f2f.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857232-3c4a4900-97dd-11eb-96eb-f7811eb47f70.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113857265-4409ed80-97dd-11eb-8edf-1e85e634b8eb.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857282-49673800-97dd-11eb-9b8e-11c065a5391c.png)
+
+- lf/hf
+  - cppg : 1.9179956876434612
+  - rppg : 1.5882575432059682
+- lf보다 hf의 차이가 1.9194647302013232 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_2.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113857361-6a2f8d80-97dd-11eb-9dd4-06a019d32257.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857384-6f8cd800-97dd-11eb-8a07-cacc83564e43.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113857424-79164000-97dd-11eb-93b8-96628b1568c0.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857442-7ddaf400-97dd-11eb-8bc0-bd60195a9157.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113857471-86332f00-97dd-11eb-80e3-da258e78b91b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857484-8af7e300-97dd-11eb-89a0-1825d0a8de6d.png)
+
+- lf/hf
+  - cppg : 1.8274533426800845
+  - rppg : 1.492761294835086
+- lf보다 hf의 차이가 2.43775821776941 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_3.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113857603-ae229280-97dd-11eb-8a8b-c9ee20b7d2a4.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857628-b4b10a00-97dd-11eb-8d97-4d6e8ed30ff5.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113857661-bf6b9f00-97dd-11eb-990e-48d6d80ed2b9.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857677-c4c8e980-97dd-11eb-8dfe-12f4aa6236c3.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113857706-cbeff780-97dd-11eb-9cea-2f73da0dd792.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857718-d0b4ab80-97dd-11eb-995b-947cd760ed1c.png)
+
+- lf/hf
+  - cppg : 1.6283162979657182
+  - rppg : 1.3796758236045208
+- lf보다 hf의 차이가 2.357807685109653 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_4.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113857891-08bbee80-97de-11eb-830c-de369468215d.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857906-0e193900-97de-11eb-93bf-8ae7b0001ce0.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113857962-21c49f80-97de-11eb-8412-58e8d800e10e.png)\
+![image](https://user-images.githubusercontent.com/70633080/113857920-15404700-97de-11eb-9893-77fb0cd461bc.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113858007-2be69e00-97de-11eb-911b-4f879de6d685.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858020-3012bb80-97de-11eb-9746-7b610fa0a1ac.png)
+
+- lf/hf
+  - cppg : 1.724029692184223
+  - rppg : 1.4929719474898897
+- lf보다 hf의 차이가 2.0379628959762344 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_5.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113858113-5173a780-97de-11eb-9702-957c0e77c035.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858134-58021f00-97de-11eb-8a27-ebf9feae4a75.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113858167-64867780-97de-11eb-8564-66c6167c2cff.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858186-694b2b80-97de-11eb-9a89-2b08f1b6c1ad.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113858235-710ad000-97de-11eb-9709-232d9f80898b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858242-7536ed80-97de-11eb-8cf7-ed43b8d6ad02.png)
+
+- lf/hf
+  - cppg : 1.4656988386254508
+  - rppg : 1.271016495695475
+- lf보다 hf의 차이가 2.4275365519398844 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_6.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113858345-939ce900-97de-11eb-95bc-9ce58e783305.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858362-98fa3380-97de-11eb-99fe-66edea207e8e.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113858390-a31c3200-97de-11eb-9de0-d6179636d1d2.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858395-a7e0e600-97de-11eb-8f4f-bccd93347bf0.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113858424-afa08a80-97de-11eb-8c4a-a6bf1bf08eaf.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858445-b3cca800-97de-11eb-80bf-510eb972ea45.png)
+
+- lf/hf
+  - cppg : 1.4428584059040976
+  - rppg : 1.1784277346528982
+- lf보다 hf의 차이가 3.0698328622835156 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_7.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113858553-d363d080-97de-11eb-8ecc-32426d76985c.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858579-d8c11b00-97de-11eb-9b3f-db0254b7ac50.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113858611-e37bb000-97de-11eb-99cf-7f7a0e51055b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858631-eaa2be00-97de-11eb-8b98-8ca95912e4b5.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113858659-f2626280-97de-11eb-80d1-b1dabbd7b843.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858674-f7271680-97de-11eb-8290-68fa9ac067ff.png)
+
+- lf/hf
+  - cppg : 1.5523752307637573
+  - rppg : 1.312306396306448
+- lf보다 hf의 차이가 2.9191441130499745 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_8.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113858764-13c34e80-97df-11eb-9baf-3219ca391c1d.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858785-19209900-97df-11eb-8704-93432f93fedf.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113858820-23db2e00-97df-11eb-89a4-e7cc840aa98a.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858854-2dfd2c80-97df-11eb-94c5-4f5293d3e4c9.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113858870-348ba400-97df-11eb-8d4e-0282d010cb4e.png)\
+![image](https://user-images.githubusercontent.com/70633080/113858889-381f2b00-97df-11eb-9feb-ea66689a2374.png)
+
+- lf/hf
+  - cppg : 1.2930666907937858
+  - rppg : 1.1302203309723164
+- lf보다 hf의 차이가 2.39409982382708 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_9.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113858986-57b65380-97df-11eb-848f-ca9f755e0d4b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859007-5dac3480-97df-11eb-95a8-8a198c562de7.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113859037-6a308d00-97df-11eb-8c7d-b1cf7e492fae.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859053-6ef54100-97df-11eb-9c56-24d6205897eb.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113859076-761c4f00-97df-11eb-8f6e-48e89913a131.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859089-79afd600-97df-11eb-9b22-915e85bfafdf.png)
+
+- lf/hf
+  - cppg : 1.3161139314749954
+  - rppg : 1.117033011373932
+- lf보다 hf의 차이가 5.27972853003578 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>8_10.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113859202-9b10c200-97df-11eb-9334-8b5fc44c65da.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859225-a106a300-97df-11eb-84d2-1c7c441ed56a.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113859306-b4b20980-97df-11eb-88fd-b754a1d3dedb.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859259-a95ede00-97df-11eb-8c63-eb0cf56d71ca.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113859327-bbd91780-97df-11eb-80b2-99a8a438dfb5.png)\
+![image](https://user-images.githubusercontent.com/70633080/113859334-c0053500-97df-11eb-8d4a-d53a8b391759.png)
+
+- lf/hf
+  - cppg : 1.3477263145973282
+  - rppg : 1.1545553372452964
+- lf보다 hf의 차이가 2.8781831939589844 배 크다.
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details>
+<summary>9. 이채원(자세히)</summary>
+
+- rppg개수 40개 모자름(19760) (따라서 원래 index-40번부터 시작 : 860:sr * 630 -40)
+    - group 15 -> 22
+    - group 16 -> 1
+    - group 17 -> 27
+- Total : lf_hf_Ratio가 비슷하게 나왔음. **(0.8919346897922263 , 0.8264034869050073)**
+- Shift
+
+    
+
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113835948-63961b80-97c7-11eb-8381-030fe0b6dd24.png)\
+![image](https://user-images.githubusercontent.com/70633080/113835966-6abd2980-97c7-11eb-98e0-66807812dfee.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113836009-77da1880-97c7-11eb-96a5-d0fa7249d434.png)\
+![image](https://user-images.githubusercontent.com/70633080/113836034-7e689000-97c7-11eb-97f0-d5f6b184568f.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113836080-89232500-97c7-11eb-91f4-7871cbb226b0.png)\
+![image](https://user-images.githubusercontent.com/70633080/113836100-8de7d900-97c7-11eb-878c-e09f69289243.png)
+
+- lf/hf
+  - cppg : 0.8919346897922263
+  - rppg : 0.8264034869050073
+- lf보다 hf의 차이가 1.2712263266773152 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_0.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113848551-9219f380-97d3-11eb-8d04-bcaa14dd5a32.png)\
+![image](https://user-images.githubusercontent.com/70633080/113848588-9d6d1f00-97d3-11eb-81bd-fdb759e849e0.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113848631-a65df080-97d3-11eb-8f7c-f3c0072f0894.png)\
+![image](https://user-images.githubusercontent.com/70633080/113848667-abbb3b00-97d3-11eb-85f0-4bc87b66feda.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113848740-be357480-97d3-11eb-960b-26b403baeed9.png)\
+![image](https://user-images.githubusercontent.com/70633080/113848761-c2619200-97d3-11eb-87bc-a32ca5894932.png)
+
+- lf/hf
+  - cppg : 0.5901466053456318
+  - rppg : 0.6516871765911033
+- lf보다 hf의 차이가 0.2019426138369514 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_1.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113849461-7bc06780-97d4-11eb-9ed5-a25c62070bbd.png)\
+![image](https://user-images.githubusercontent.com/70633080/113849474-81b64880-97d4-11eb-824a-b64c2031d2f0.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113849502-8844c000-97d4-11eb-83ce-e7d56d143c33.png)\
+![image](https://user-images.githubusercontent.com/70633080/113849518-8da20a80-97d4-11eb-872b-27cfc0e6452a.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113849562-9abef980-97d4-11eb-8813-fa48b9156565.png)\
+![image](https://user-images.githubusercontent.com/70633080/113849596-a1e60780-97d4-11eb-9f9a-75c21408d0a1.png)
+
+- lf/hf
+  - cppg : 0.7382393902264306
+  - rppg : 0.7089637234432726
+- lf보다 hf의 차이가 0.11174444889393255 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_2.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113849838-d2c63c80-97d4-11eb-8055-3b63a8ed798b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113849873-d9ed4a80-97d4-11eb-9757-92a4d0629c19.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113849923-e5d90c80-97d4-11eb-9748-c4cc491a5805.png)\
+![image](https://user-images.githubusercontent.com/70633080/113849943-ea9dc080-97d4-11eb-9f85-c93a95df445f.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113849974-f5585580-97d4-11eb-9363-b4691362d11e.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850011-fc7f6380-97d4-11eb-909b-498031dbe82e.png)
+
+- lf/hf
+  - cppg : 0.6612791025090395
+  - rppg : 0.6179063177296421
+- lf보다 hf의 차이가 5.717973701538685 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_3.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113850141-1f117c80-97d5-11eb-89c5-10e514145c5a.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850171-25075d80-97d5-11eb-9810-b1b49791857f.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113850212-2fc1f280-97d5-11eb-875c-610fc82bb351.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850235-36506a00-97d5-11eb-9fd9-7a71b5d88de1.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113850299-47997680-97d5-11eb-9a1d-f5d94f5a4d3a.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850317-4bc59400-97d5-11eb-954c-61fc7bd10e81.png)
+
+- lf/hf
+  - cppg : 0.7715687892849006
+  - rppg : 0.6685235070740785
+- lf보다 hf의 차이가 1.9376001266359186 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_4.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113850436-70ba0700-97d5-11eb-9db6-a9ebeddb169f.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850478-7a436f00-97d5-11eb-8bc1-8439ac4ace2b.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113850512-83ccd700-97d5-11eb-9fbb-d982eb378dfb.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850531-892a2180-97d5-11eb-9c39-7455627e0a54.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113850573-93e4b680-97d5-11eb-84f4-5de2d9961a3b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850589-98a96a80-97d5-11eb-9d85-19785d798569.png)
+
+- lf/hf
+  - cppg : 1.0664385622034596
+  - rppg : 0.8465225668870905
+- lf보다 hf의 차이가 2.317754669937378 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_5.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113850715-b676cf80-97d5-11eb-805e-f790c6b94862.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850741-bd9ddd80-97d5-11eb-8d0a-02bc470985c6.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113850801-cd1d2680-97d5-11eb-8954-21c6e684047a.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850831-d4443480-97d5-11eb-80ba-da5dda4c2ab8.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113850870-de663300-97d5-11eb-847c-9548805fbd19.png)\
+![image](https://user-images.githubusercontent.com/70633080/113850889-e32ae700-97d5-11eb-9cfc-bd2e77f060c8.png)
+
+- lf/hf
+  - cppg : 1.2410690503904542
+  - rppg : 0.9775459807245811
+- lf보다 hf의 차이가 7.1891234713079575 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_6.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113854080-6ac62500-97d9-11eb-951c-97d3d3c318da.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854097-71ed3300-97d9-11eb-92db-4e481ef6f896.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113854133-7c0f3180-97d9-11eb-9c52-7880b2f2e723.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854145-816c7c00-97d9-11eb-8552-173d6faf2d96.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113854179-8a5d4d80-97d9-11eb-88cf-b8f1509563a4.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854194-8e896b00-97d9-11eb-8654-bcd5b17e667b.png)
+
+- lf/hf
+  - cppg : 1.3287173414930786
+  - rppg : 0.9981371391694405
+- lf보다 hf의 차이가 3.641425590583698 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_7.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113854305-b2e54780-97d9-11eb-826c-a5116f425d32.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854325-b8429200-97d9-11eb-9a8b-e104ded12d84.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113854365-c1cbfa00-97d9-11eb-9eaa-25b35d7a5163.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854384-c7294480-97d9-11eb-811a-be84b2022fef.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113854407-d01a1600-97d9-11eb-8315-0978fad98866.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854423-d4deca00-97d9-11eb-9a9c-b2ec58eb8567.png)
+
+- lf/hf
+  - cppg : 1.1458854733379114
+  - rppg : 0.855573145908229
+- lf보다 hf의 차이가 5.007574982840265 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_8.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113854567-f63fb600-97d9-11eb-913b-2f69bbd20ce9.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854587-fb9d0080-97d9-11eb-9209-10abc3a0d949.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113854618-05beff00-97da-11eb-8f58-7e944b20c45e.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854629-0b1c4980-97da-11eb-99fd-c9bdf1443821.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113854656-13748480-97da-11eb-8885-46f271c0e2b4.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854666-17a0a200-97da-11eb-8937-48bd040560f5.png)
+
+- lf/hf
+  - cppg : 1.3264252888426804
+  - rppg : 1.0461835843574063
+- lf보다 hf의 차이가 16.217745626515168 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_9.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113854873-546c9900-97da-11eb-80b3-c27d0ee5176b.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854899-5f272e00-97da-11eb-8a47-7cb69e7bf38e.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113854935-69492c80-97da-11eb-99ae-bbda92725615.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854957-6ea67700-97da-11eb-9816-3546e0d16ee1.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113854985-75cd8500-97da-11eb-8894-e6a790cbf725.png)\
+![image](https://user-images.githubusercontent.com/70633080/113854998-79f9a280-97da-11eb-93ea-f78661209d61.png)
+
+- lf/hf
+  - cppg : 1.465575363310893
+  - rppg : 1.070597402306509
+- lf보다 hf의 차이가 17.163128465709622 배 크다.
+
+</div>
+</details>
+
+<details>
+<summary>9_10.csv(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113855095-9d245200-97da-11eb-9228-7dc912ff8b46.png)\
+![image](https://user-images.githubusercontent.com/70633080/113855110-a2819c80-97da-11eb-8055-29dd37e1631d.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113855149-ac0b0480-97da-11eb-8915-7c2df3a1beaa.png)\
+![image](https://user-images.githubusercontent.com/70633080/113855168-b1684f00-97da-11eb-8b62-1d5ccbb6e0b5.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113855194-b927f380-97da-11eb-9e85-4e139dbbebd1.png)\
+![image](https://user-images.githubusercontent.com/70633080/113855211-bd541100-97da-11eb-983a-d14f6468699c.png)
+
+- lf/hf
+  - cppg : 1.3746336338822833
+  - rppg : 0.9688355607695189
+- lf보다 hf의 차이가 35.3826659772774 배 크다.
+
+</div>
+</details>
+
 
 </div>
 </details>

@@ -895,12 +895,21 @@
 <details>
 <summary>9. 이채원(자세히)</summary>
 
-- rppg개수 40개 모자름(19760) (따라서 원래 index-40번부터 시작 : 860:sr * 630 -40)
-    - group 15 -> 22
-    - group 16 -> 1
-    - group 17 -> 27
 - Total : lf_hf_Ratio가 비슷하게 나왔음. **(0.8919346897922263 , 0.8264034869050073)**
-- Shift
+    - rppg개수 40개 모자름(19760) (따라서 원래 index-40번부터 시작 : 860:sr * 630 -40)
+        - group 15 -> 22
+        - group 16 -> 1
+        - group 17 -> 27
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864426-d9a97b00-97e5-11eb-86e6-fb9e8186156a.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864319-baaae900-97e5-11eb-99e1-64d0141d6898.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864383-cd252280-97e5-11eb-923e-5be12e9549c6.png" weight="50%" height="50%">
+    </p>
 
     
 

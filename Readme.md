@@ -34,8 +34,7 @@
 - 3번 : lf도 차이가 좀나긴하지만 hf에서 차이가 2
 - 4번 : lf 유사, hf에서 큰차이 근데 데이터수가 모자름 
 ### 데이터 shift
-- 수경(0) : 모두다 유사.
-- 미경(2) : 모두다 r의 hf가 더 높고 차이가 컸으며 lf에서는 차이가 그리 크지않았음.
+- hf와 lf의 차이가 잘나온 예시 : 유수경_3
 
 ## Result
 
@@ -627,7 +626,13 @@
 
 - cppg data개수 모자람 168240개
 - Total : lf_hf_Ratio가 비슷하게 나왔음. **(1.722921074032543 , 1.4622911848470102)**
- 
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113863064-29874280-97e4-11eb-991a-544dc80447d7.png" weight="50%" height="50%"> 
+        <img src="https://user-images.githubusercontent.com/70633080/113862942-02307580-97e4-11eb-81bf-c038a787e31b.png" weight="50%" height="50%">
+        <img src="https://user-images.githubusercontent.com/70633080/113863008-15dbdc00-97e4-11eb-8e54-e9c3c71ab791.png" weight="50%" height="50%">
+    </p>
+    
 <details>
 <summary>Total(자세히)</summary>
   

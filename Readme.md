@@ -10,20 +10,20 @@
 - hrv_analysis.ipynb : 추출한 hrv신호들을 불러와 rppg와 cppg의 결과를 비교한다.
 
 ## Protocol
-1. 실험
-    - 얼굴 이미지와 cppg를 동시에 추출.
-    - 얼굴 이미지로 rppg를 추출
-    - cppg와 rppg의 시간 기록 및 맞춰주기
-    - data shift
-2. 신호 전처리
-    - bandfass filtering
-    - normalization(0~1)
-3. Peak detection
-4. rr interval 계산
-    - 이상값 제거
-5. hrv feature extract
+
 
 ## Process
+1. Matching Time
+- cppg와 rppg의 시간 기록 및 맞춰주기
+2. Data shift
+3. 신호 전처리
+    - bandfass filtering
+    - normalization(0~1)
+4. Peak detection
+5. rr interval 계산
+    - 이상값 제거
+6. hrv feature extract
+
 ### 새로운 데이터
 - 본인의 데이터를 사용
 - data shift없이 앞,뒤 30초 자른 데이터 사용했음.

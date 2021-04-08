@@ -325,6 +325,17 @@
 - lf에도 약간의 차이가 있음
 - 그러나 lf에 비해 hf가 더 차이가 있었음.
 
+- After Shift **(파랑 : c, 주황 : r)**
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113958677-760e6480-985c-11eb-9b26-5bfe1542ea2c.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113958703-7e669f80-985c-11eb-9259-dedbba1f7628.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113958723-86264400-985c-11eb-87ed-02c33836f972.png" weight="50%" height="50%">
+</p>
+
 <details>
 <summary>3_0.csv(자세히)</summary>
   

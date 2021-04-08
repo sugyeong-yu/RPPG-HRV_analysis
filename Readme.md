@@ -70,6 +70,17 @@
 <details>
 <summary>1. 김나혜(자세히)</summary>
     
+- After Shift **(파랑 : c, 주황 : r)**
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113959234-71967b80-985d-11eb-8898-880cf7b823c4.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113959254-79eeb680-985d-11eb-9881-4bdf0bab86cb.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/113959272-81ae5b00-985d-11eb-8be9-8febd7e568ff.png" weight="50%" height="50%">
+</p>
+
 <details>
 <summary>Total(자세히)</summary> 
 

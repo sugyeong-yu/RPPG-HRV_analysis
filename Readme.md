@@ -41,16 +41,16 @@
 <details>
 <summary>0. 유수경_1(자세히)</summary>
 
- - Total : lf_hf_Ratio가 유사함. **(0.8577113522342822 , 00.8144823574325695)**
+ - Total : lf_hf_Ratio가 유사함. **(0.8577113522342822 , 0.8144823574325695)**
  - After Shift **(파랑 : c, 주황 : r)**
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/70633080/113959234-71967b80-985d-11eb-8898-880cf7b823c4.png" weight="50%" height="50%">
+    <img src="https://user-images.githubusercontent.com/70633080/113984510-280e5680-9886-11eb-8475-d1092a82ab4a.png" weight="50%" height="50%">
 </p>
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/70633080/113959254-79eeb680-985d-11eb-9881-4bdf0bab86cb.png" weight="50%" height="50%">
+    <img src="https://user-images.githubusercontent.com/70633080/113984544-30669180-9886-11eb-9516-b3b8190bd0e4.png" weight="50%" height="50%">
 </p>
 <p align="left">
-    <img src="https://user-images.githubusercontent.com/70633080/113959272-81ae5b00-985d-11eb-8be9-8febd7e568ff.png" weight="50%" height="50%">
+    <img src="https://user-images.githubusercontent.com/70633080/113984696-54c26e00-9886-11eb-9109-d532a2864223.png" weight="50%" height="50%">
 </p>
 
 <details>
@@ -162,16 +162,19 @@
 <summary>0_4.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113980239-33ab4e80-9881-11eb-91a5-6b68d24b56a6.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980254-39089900-9881-11eb-80f1-50a8fb4054a1.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113980286-432a9780-9881-11eb-8f93-3feeb15e2232.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980323-4a51a580-9881-11eb-9015-8dd38b075404.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113980345-53427700-9881-11eb-97a9-27f5d1d46b21.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980366-589fc180-9881-11eb-847a-f327ddc87e11.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 0.8407684772419656
+  - rppg : 0.8125881203279546
+- lf보다 hf의 차이가 2.08978197887601 배 크다.
 
 </div>
 </details>
@@ -180,16 +183,19 @@
 <summary>0_5.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113980457-7b31da80-9881-11eb-9601-a52820add0f2.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980485-808f2500-9881-11eb-8422-af06efca3337.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113980525-8d137d80-9881-11eb-8187-8ca4eeb15087.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980541-93a1f500-9881-11eb-8429-f231297f78f7.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113980565-9bfa3000-9881-11eb-9fba-5680f4bbc78f.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980585-a1f01100-9881-11eb-965a-e1ae6e704830.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 0.8645918507199178
+  - rppg : 0.8473216138165628
+- lf보다 hf의 차이가 1.6181499324993556 배 크다.
 
 </div>
 </details>
@@ -198,16 +204,19 @@
 <summary>0_6.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113980693-c2b86680-9881-11eb-9f60-8ac501dfefd3.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980720-c946de00-9881-11eb-9a8e-de483d4bccc8.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113980761-d368dc80-9881-11eb-8c49-4f473a30536a.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980775-d8c62700-9881-11eb-9bf8-23e632971e02.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113980815-e24f8f00-9881-11eb-8255-b1f8fe0b6300.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980832-e8457000-9881-11eb-9c08-62d166ed0bf0.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 1.070734407669084
+  - rppg : 1.0086067709251159
+- lf보다 hf의 차이가 2.0931820267532224 배 크다.
 
 </div>
 </details>
@@ -216,16 +225,19 @@
 <summary>0_7.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113980969-12972d80-9882-11eb-94b8-e149388b0001.png)\
+![image](https://user-images.githubusercontent.com/70633080/113980988-188d0e80-9882-11eb-9963-7f53136cd036.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113981028-2347a380-9882-11eb-8d4a-2c10b82446bc.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981050-28a4ee00-9882-11eb-9545-f64d0ec2b32a.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113981074-2fcbfc00-9882-11eb-906a-24a9ca296e7c.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981088-33f81980-9882-11eb-93e4-259cab7d3984.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 1.1761962719351868
+  - rppg : 1.0431207653462449
+- lf보다 hf의 차이가 3.239050521945546 배 크다.
 
 </div>
 </details>
@@ -234,16 +246,19 @@
 <summary>0_8.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113981192-58ec8c80-9882-11eb-94b3-9b9a7e0d13e4.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981226-5ee26d80-9882-11eb-892e-cb3b9bc3da1a.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113981294-76215b00-9882-11eb-8e6f-d848b0117708.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981315-7b7ea580-9882-11eb-964b-b43f2cdd2729.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113981359-89342b00-9882-11eb-8de6-d9763b256476.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981376-8e917580-9882-11eb-922d-499fe8f37f8e.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 1.0793585895163822
+  - rppg : 0.9339141898656892
+- lf보다 hf의 차이가 7.045379630808728 배 크다.
 
 </div>
 </details>
@@ -252,16 +267,19 @@
 <summary>0_9.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113981526-bbde2380-9882-11eb-8709-11238f142618.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981545-c13b6e00-9882-11eb-8387-1701097fb7bf.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113981589-cb5d6c80-9882-11eb-96e4-369b792a8e10.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981618-d0bab700-9882-11eb-8373-fb31f0d63fee.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113981639-d9ab8880-9882-11eb-8f65-a58dd3d3dccc.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981656-ddd7a600-9882-11eb-8041-d834bd0aff89.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 1.2944013571443196
+  - rppg : 1.1188114045042885
+- lf보다 hf의 차이가 3.9013113756180453 배 크다.
 
 </div>
 </details>
@@ -270,16 +288,19 @@
 <summary>0_10.csv(자세히)</summary>
   
 - ppg\
-
+![image](https://user-images.githubusercontent.com/70633080/113981897-22fbd800-9883-11eb-9e2f-995e3c716161.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981924-2a22e600-9883-11eb-813a-e60910903e2e.png)
 - ppi\
-
+![image](https://user-images.githubusercontent.com/70633080/113981972-33ac4e00-9883-11eb-8d92-eb9b28616772.png)\
+![image](https://user-images.githubusercontent.com/70633080/113981995-39099880-9883-11eb-8a5e-e1a6813b2ff1.png)
 - graph\
-
+![image](https://user-images.githubusercontent.com/70633080/113982029-4161d380-9883-11eb-8685-38a91d0c73b4.png)\
+![image](https://user-images.githubusercontent.com/70633080/113982050-46268780-9883-11eb-9944-0df6a351db8d.png)
 
 - lf/hf
-  - cppg : 0.8577113522342822
-  - rppg : 0.8144823574325695
-- lf보다 hf의 차이가 3.599346289022882 배 크다.
+  - cppg : 1.175117768813192
+  - rppg : 1.0050865702069962
+- lf보다 hf의 차이가 12.203796344990089 배 크다.
 
 </div>
 </details>
@@ -1648,9 +1669,69 @@
 </div>
 </details>
 
+</div>
+</details>
+
+<details>
+<summary>10. 한우정(자세히)</summary>
+
+- Total : lf_hf_Ratio에 차이가 있음. **(0.5054755504352224 , 0.26475324894214664)**
+    - rppg개수 70개 모자름(19760) (따라서 원래 index-72번부터 시작 : 828:sr * 630 -72)
+        - group 8 -> 1
+        - group 9 -> 1
+        - group 10 -> 16
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864426-d9a97b00-97e5-11eb-86e6-fb9e8186156a.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864319-baaae900-97e5-11eb-99e1-64d0141d6898.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/113864383-cd252280-97e5-11eb-923e-5be12e9549c6.png" weight="50%" height="50%">
+    </p>
+
+    
+
+<details>
+<summary>Total(자세히)</summary>
+  
+- ppg\
+![image](https://user-images.githubusercontent.com/70633080/113983977-8b4bb900-9885-11eb-95d5-ede466a45fa6.png)\
+![image](https://user-images.githubusercontent.com/70633080/113983996-90a90380-9885-11eb-8452-abf8e978802c.png)
+- ppi\
+![image](https://user-images.githubusercontent.com/70633080/113984045-9e5e8900-9885-11eb-8553-4c7d368d3529.png)\
+![image](https://user-images.githubusercontent.com/70633080/113984022-99013e80-9885-11eb-99e9-956f26704199.png)
+- graph\
+![image](https://user-images.githubusercontent.com/70633080/113984073-a5859700-9885-11eb-8603-11e71d017be9.png)\
+![image](https://user-images.githubusercontent.com/70633080/113984082-a9b1b480-9885-11eb-80e2-66f060d7b100.png)
+
+- lf/hf
+  - cppg : 0.5054755504352224
+  - rppg : 0.26475324894214664
+- lf보다 hf의 차이가 6.7341302012603315 배 크다.
 
 </div>
 </details>
+
+<details>
+<summary>10_0.csv(자세히)</summary>
+  
+- ppg\
+
+- ppi\
+
+- graph\
+
+
+- lf/hf
+  - cppg : 0.8919346897922263
+  - rppg : 0.8264034869050073
+- lf보다 hf의 차이가 1.2712263266773152 배 크다.
+
+</div>
+</details>
+
 
 ## 관련 공부
 ### 1. pyserial

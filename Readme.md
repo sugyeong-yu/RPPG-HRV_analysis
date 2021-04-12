@@ -57,18 +57,6 @@
     - 이상값 제거
 6. hrv feature extract
 
-### 새로운 데이터
-- 본인의 데이터를 사용
-- data shift없이 앞,뒤 30초 자른 데이터 사용했음.
-- bandpass filtering 사용함
-- 그 결과, lf/hf 가 유사했고 lf에서 큰차이가 나지 않음. 
-- 비교적 hf에서 더 큰차이를 보임.
-- 2번 : lf는 완전유사, hf에서 큰차이
-- 3번 : lf도 차이가 좀나긴하지만 hf에서 차이가 2
-- 4번 : lf 유사, hf에서 큰차이 근데 데이터수가 모자름 
-### 데이터 shift
-- hf와 lf의 차이가 잘나온 예시 : 유수경_3
-
 ## Result
 
 <details>

@@ -2494,3 +2494,5 @@
 ### 1. pyserial
 - serial port connection을 도와주는 모듈 
 - python으로 usb직렬포트에 연결된 장치를 동작시킬 수 있도록 한다.
+## 참고문헌
+- http://www.vitalscan.kr/dt_hrv1_kr.htm

@@ -1,4 +1,4 @@
-# rppg_hrv
+# rppg_HRV
 - 비접촉식 ppg(rppg)로도 hrv분석이 가능함을 증명한다.
 
 ## hrv 분석
@@ -47,15 +47,20 @@
 
 ## Process
 1. Matching Time
-- cppg와 rppg의 시간 기록 및 맞춰주기
+    - cppg와 rppg의 시간 기록 및 맞춰주기
 2. Data shift
-3. 신호 전처리
+    - Data 수 늘리기
+3. 신호 전처리(동잡음 제거)
     - bandfass filtering
     - normalization(0~1)
+    - **interpolation**
 4. Peak detection
 5. rr interval 계산
     - 이상값 제거
+    - **rri interpolation**
 6. hrv feature extract
+    - 주파수 변환(FFT)
+    - 각 지표값 계산
 
 ## Result
 

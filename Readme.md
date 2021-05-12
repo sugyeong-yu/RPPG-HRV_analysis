@@ -54,7 +54,7 @@
     - bandfass filtering
     - normalization(0~1)
     - **interpolation**
-4. Peak detection
+4. **Peak detection**
 5. rr interval 계산
     - 이상값 제거
     - **rri interpolation**

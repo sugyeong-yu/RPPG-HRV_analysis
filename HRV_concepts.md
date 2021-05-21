@@ -28,7 +28,12 @@ HRV의 개념 및 분석 Standard에 대하여 설명한다.
   - 해당 점을 기준으로 심전도 앞뒤에서 꼭짓점 찾기\
   ![image](https://user-images.githubusercontent.com/70633080/119080553-3e870080-ba35-11eb-9918-13e86894e1db.png)
 ### 4. RRI calculation
+- R-peak간의 시간간격을 의미함
+- (peak_index[n] - peak_index[n+1]) * Fs  = RRI[n]
+- index에 Fs를 곱하면 해당 시간이 된다.(sec) 
+- 단위는 msec로 변환해야함
 ### 5. NN interval calculation
+- RRI에서 이상점을 제거한 것을 NNI
 ### 6. RRI or NNI interpolation
 ### 7. FFT
 ### 8. Power in target range

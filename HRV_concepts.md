@@ -33,11 +33,26 @@ HRV의 개념 및 분석 Standard에 대하여 설명한다.
 - index에 Fs를 곱하면 해당 시간이 된다.(sec) 
 - 단위는 msec로 변환해야함
 ### 5. NN interval calculation
-- RRI에서 이상점을 제거한 것을 NNI
+- RRI에서 이상점을 제거한 것을 NNI\
+![image](https://user-images.githubusercontent.com/70633080/119081177-6c207980-ba36-11eb-86a6-683879672b2e.png)
 ### 6. RRI or NNI interpolation
+- RRI 또는 NNI사이사이를 interpolation한다.
+- interpolation을 해야하는 이유
+1. 주파수 해상도
+  - data수 : 12000개
+  - R peak수 : 60개
+  - 이는 1HZ 샘플링 느낌 (60 * 1 = 60)
+  - 볼수있는대역은 1HZ/2 = 0.5Hz이다.
+  - 따라서 데이터 수를 늘리면 주파수 대역의 x축사이가 촘촘해짐 > 볼수있는 주파수 대역이 늘어남 
+  - 주파수해상도를 높일 수 있다는 것\
+  ![image](https://user-images.githubusercontent.com/70633080/119081459-f7017400-ba36-11eb-9149-4c9ca257b657.png)\
+  ![image](https://user-images.githubusercontent.com/70633080/119081495-07195380-ba37-11eb-8efa-11c5b206cbbc.png)
+2.  Missing data 처리
+  - 이상 RRI를 제거후 앞 뒤를 이어 붙이게 되면 새로운 주파수 성분이 추가된다. 
+  - 이는 분석에 영향을 미칠 수 있음
+  - 따라서 이 제거 구간의 data를 채워줘야함
 ### 7. FFT
 ### 8. Power in target range
-# 분석 시 주의해야할점
 
 # HRV analysis with low sampling rate
 

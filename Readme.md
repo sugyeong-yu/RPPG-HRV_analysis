@@ -1,4 +1,4 @@
-# rppg_HRV
+# RPPG_HRV
 - 비접촉식 ppg(rppg)로도 hrv분석이 가능함을 증명한다.
 
 ## hrv 분석

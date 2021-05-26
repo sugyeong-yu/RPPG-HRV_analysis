@@ -2483,6 +2483,17 @@
 </div>
 </details>
 
+## 성능향상
+1. Interpolation
+- signal interpolation
+    - rppg를 255sr로 interplolation
+- RRI interpolation
+    - cppg & rppg 모두 길이 * 2 로 interpolation
+- 그 결과 LF/HF Ratio에서 약간의 향상을 보임 ex) 4번\
+![image](https://user-images.githubusercontent.com/70633080/119621231-d70bef00-be40-11eb-9cb5-fa273d903229.png)
+![image](https://user-images.githubusercontent.com/70633080/119621246-d96e4900-be40-11eb-9513-b11c4191c251.png)
+
+
 ## 관련 공부
 ### 1. pyserial
 - serial port connection을 도와주는 모듈 

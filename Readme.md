@@ -1389,6 +1389,24 @@
 </details>
 
 <details>
+<summary>6. 목지원(자세히)</summary>
+
+ - After Shift **(파랑 : c, 주황 : r)**
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/120981674-debd8300-c7b2-11eb-8b05-130a99fb8e3c.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/120981754-f268e980-c7b2-11eb-9356-4f31bac7618b.png" weight="50%" height="50%">
+</p>
+<p align="left">
+    <img src="https://user-images.githubusercontent.com/70633080/120981805-feed4200-c7b2-11eb-805e-1cc3d24795b2.png" weight="50%" height="50%">
+</p>
+
+
+</div>
+</details>
+
+<details>
 <summary>7. 유수경_2(자세히)</summary>
 
 

@@ -1409,7 +1409,7 @@
 <details>
 <summary>7. 유수경_2(자세히)</summary>
 
-
+- peak distance : 100
 - Total : lf_hf_Ratio가 비슷하게 나왔음. **(2.4673490304430854 , 2.100023846724976)**
     - cppg data개수 모자람 168112개 
 - After Shift **(파랑 : c, 주황 : r)**

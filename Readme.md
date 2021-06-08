@@ -64,6 +64,8 @@
 
 ## Result
 
+### before interpolation
+
 <details>
 <summary>0. 유수경_1(자세히)</summary>
 
@@ -2497,6 +2499,44 @@
 
 </div>
 </details>
+
+</div>
+</details>
+
+### after interpolation
+
+<details>
+<summary>0. 유수경(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121157664-b7cf8180-c884-11eb-8811-ae4d1cc987a2.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121157535-9d95a380-c884-11eb-83f0-76e130ccdd36.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121157605-ad14ec80-c884-11eb-86c6-9c26511a4912.png" weight="50%" height="50%">
+    </p>
+
+
+</div>
+</details>
+
+<details>
+<summary>1. 김나혜(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121158023-00873a80-c885-11eb-948a-4ddc1a902586.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121157899-e9484d00-c884-11eb-9d8d-6c750d67a33f.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121157962-f402e200-c884-11eb-9b54-77b36f697159.png" weight="50%" height="50%">
+    </p>
+
 
 </div>
 </details>

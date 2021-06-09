@@ -2594,15 +2594,6 @@
     - good : 0,1,6,7,8,9
     - bad : 2,3,4
 
-## 성능향상
-1. Interpolation
-- signal interpolation
-    - rppg를 255sr로 interplolation
-- RRI interpolation
-    - cppg & rppg 모두 길이 * 2 로 interpolation
-    - 성능 안좋음
-2. RRI outlier remove
-
 
 ## 관련 모듈
 ### 1. pyserial

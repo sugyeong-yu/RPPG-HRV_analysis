@@ -2570,8 +2570,11 @@
 - MAE는 직관적이지만 값의 scale을 고려하지 않는다는 단점이 있음
 - 4번의 LF MAE는 36 , 8번의 LF MAE는 150 >> 4번의 값이 더 작으므로 성능이 더 좋아보일 수 있음.
 <img src="https://user-images.githubusercontent.com/70633080/121294639-b48dd180-c928-11eb-8f13-bb3dc809d797.png" width="80%" height="80%">
+
 - 그러나 값의 정규화를 수행해보면 4번의 성능이 더 안좋음을 알 수 있음.
+
 <img src="https://user-images.githubusercontent.com/70633080/121294785-ebfc7e00-c928-11eb-8c27-c2b3468b3d89.png" width="80%" height="80%">
+
 - 이는 HRV계산과정에서 reference 상태에 비해 LF의 상대적인 power가 아닌 절대적 power가 계산되어 피험자마다 값의 scale이 다르기 때문
 - 따라서 MAPE를 사용하여 정규화된 Error 즉, error percentage를 구한다.  
 

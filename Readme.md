@@ -2537,6 +2537,124 @@
         <img src="https://user-images.githubusercontent.com/70633080/121157962-f402e200-c884-11eb-9b54-77b36f697159.png" weight="50%" height="50%">
     </p>
 
+</div>
+</details>
+
+<details>
+<summary>2. 이미경(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121298988-b909b880-c92f-11eb-9923-a4e46ba930a2.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121298865-8495fc80-c92f-11eb-886b-b63021acf13d.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121298953-a7281580-c92f-11eb-87e9-7145ecd68e89.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>3. 복진영(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299637-b065b200-c930-11eb-92a0-6c29207fd5a3.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299663-bb204700-c930-11eb-9ee1-327af4514fef.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299688-c4a9af00-c930-11eb-9ddc-9cd829548c7a.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>4. 이승건(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299897-063a5a00-c931-11eb-8468-c3ded9e076a3.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299773-e145e700-c930-11eb-9120-5325f3b4b358.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121299835-f4f14d80-c930-11eb-9567-ec5eb6105d05.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>6. 목지원(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300033-3d107000-c931-11eb-96c5-f43d163505d5.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300062-47cb0500-c931-11eb-880a-b895094e0ee8.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300085-50bbd680-c931-11eb-84c3-9349c02f6f78.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>7. 유수경(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300270-94164500-c931-11eb-9127-5cc468baea15.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300214-81037500-c931-11eb-956e-302f77229a76.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300245-8a8cdd00-c931-11eb-849f-ac71d7c66bb1.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>8. 유수경(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300407-c45de380-c931-11eb-8c19-eef7dbe795f0.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300449-cfb10f00-c931-11eb-8fc8-1bfff88335a5.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121300474-d9d30d80-c931-11eb-96df-2106137c3232.png" weight="50%" height="50%">
+    </p>
+
+</div>
+</details>
+
+<details>
+<summary>9. 이채원(자세히)</summary>
+
+- After Shift **(파랑 : c, 주황 : r)**
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121301469-37b42500-c933-11eb-9e08-7aa0d3b06d0c.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121301497-43075080-c933-11eb-8eca-dbff68d0198b.png" weight="50%" height="50%">
+    </p>
+    <p align="left">
+        <img src="https://user-images.githubusercontent.com/70633080/121301520-4bf82200-c933-11eb-82a2-c9bc9beaafc7.png" weight="50%" height="50%">
+    </p>
 
 </div>
 </details>

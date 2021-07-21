@@ -41,7 +41,7 @@
 - rppg.ipynb : 캡처된 얼굴 image들을 불러와 ppg신호를 추출하여 시간과 함께 기록하는 rppg추출
 - variable_sampling_rate.ipynb : sr이 가변적인 rppg의 신호를 불러와 시간정보에 맞추어 초당 sr을 추출하여 그룹화한다.
 - hrv_analysis.ipynb : 추출한 PPG신호들을 불러와 전처리과정 수행, HRV계산 , rppg와 cppg의 결과를 비교하는 main파일이다.
-
+- error_rate.ipynb : MAPE를 구하는 과정
 ## Protocol
 1. Matching Time
     - cppg와 rppg의 시간 기록 및 맞춰주기

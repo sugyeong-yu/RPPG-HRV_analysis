@@ -60,18 +60,6 @@ def Totimedomain(time, peaks_x):
 def preprocessing(ppg_data, cut_l, cut_h, sr):
     filtered = hp.filter_signal(ppg_data, cutoff=cut_l, sample_rate=sr, order=3, filtertype='lowpass')
     filtered = hp.filter_signal(filtered, cutoff=cut_h, sample_rate=sr, order=3, filtertype='highpass')
-
-    print("-----------------filtering---------------")
-    # plt.subplot(1, 2, 1)
-    # plt.xlim([0, 1000])
-    # plt.plot(ppg_data)
-    #
-    # plt.subplot(1, 2, 2)
-    # plt.xlim([0, 1000])
-    # plt.plot(filtered)
-    # plt.show()
-
-    print("-------------------------------------------------")
     return filtered
 
 

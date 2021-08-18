@@ -14,46 +14,65 @@ import sys
 from scipy.interpolate import interp1d
 import matplotlib as mlp
 import time
+from scipy.stats import zscore
 
-
-# 그래프 확인하기
-subject=11
-num=10
-
-cppg_frequency_features=[]
-rppg_frequency_features=[]
-
-def hrv_analysis(signal,sr=30,distance=100):
-    rppg_sig_=np.array(signal['rppg'],dtype='float32')
-    rppg_time_= np.array(signal['time'],dtype='float32')
+def hrv_analysis(signal,sr,distance,th,rppg):
+    ppg_sig_=np.array(signal['ppg'],dtype='float32')
+    ppg_time_= np.array(signal['time'],dtype='float32')
     # ================= preprocessing===================
     # 1. interpolation
-    rppg_time = np.linspace(rppg_time_[0], rppg_time_[-1], len(rppg_time_)*8) # interpolation된 x
-    i = interp1d(rppg_time_, rppg_sig_, kind='quadratic')
-    rppg_sig = i(rppg_time) # interpolation된 y
+    if rppg:
+        print("interpolation")
+        ppg_time = np.linspace(ppg_time_[0], ppg_time_[-1], 76500) # interpolation된 x
+        i = interp1d(ppg_time_, ppg_sig_, kind='quadratic')
+        ppg_sig = i(ppg_time) # interpolation된 y
+        sr=255
+    else :
+        ppg_sig=ppg_sig_
+        ppg_time=ppg_time_
     # 2. bandpass filtering
-    filterd = preprocessing(rppg_sig, 2.0, 0.5, sr)
-    r_peaks_y, r_peaks_x = detect_peak(rppg_time, filterd, distance)
+    filtered = preprocessing(ppg_sig, 2.0, 0.5, sr)
+    # plt.figure(figsize=(20,7))
+    # plt.plot(ppg_time,filtered)
+    # plt.xlim([150000,200000])
+    # plt.show()
+    peaks_y, peaks_x = detect_peak(ppg_time, filtered, distance)
 
     # 3. extract PPI
-    rppg_ppi = np.diff(r_peaks_x)
-
+    ppg_ppi = np.diff(peaks_x)
+    nni = ppg_ppi.copy()
+    nni[np.abs(zscore(ppg_ppi)) > th] = np.median(nni)
     # ================ hrv analysis ======================
-    hrv_feature = get_frequency_domain_features(rppg_ppi)  # rppg_ppi r_nni
+    hrv_feature = get_frequency_domain_features(nni)  # rppg_ppi r_nni
     return hrv_feature
 
 if __name__ == "__main__":
     start_time=time.time()
-    subject=0
-    num=0
-    path="D:\prlab\ysg\\rppg\RPPG-HRV_analysis\\data\\rppg\\shift\\%d\\rppg%d_%d.csv"%(subject,subject,num)
-    rppg = pd.read_csv(path,header=None)
-    rppg=rppg.loc[:,0:150]
-    rppg=rppg.transpose()
-    rppg.columns=['rppg','time','group']
-    hrv_feature=hrv_analysis(rppg)
-    stop_time=time.time()
-    print(hrv_feature)
-    print("5분 데이터 1개 실행시간 : ",stop_time-start_time)
+    ppg_name='cppg'
+    sr=255 # 30
+    distance=130#100
+
+    subject=10
+    for num in range(11):
+        path="D:\prlab\ysg\\rppg\RPPG-HRV_analysis\\data\\"+ppg_name+"\\shift\\%d\\"%(subject)+ppg_name+"%d_%d.csv"%(subject,num)
+        print(path)
+        ppg = pd.read_csv(path,header=None)
+        ppg=ppg.transpose()
+        #ppg.columns = ['ppg', 'time', 'group']
+        ppg.columns=['ppg','realtime','time']
+        hrv_feature=hrv_analysis(ppg,sr,distance,2,False)
+
+        save_path = "D:\\prlab\\ysg\\rppg\\RPPG-HRV_analysis\\%d.csv" % subject
+        with open(save_path, 'a', newline='') as f:
+            wr = csv.writer(f)
+            if num == 0:
+                # 처음만 csv에 key 저장
+                wr.writerow(hrv_feature.keys())
+            wr.writerow(hrv_feature.values())
+            f.close()
+
+        stop_time=time.time()
+        print(hrv_feature)
+    #print("5분 데이터 1개 실행시간 : ",stop_time-start_time)
 
 

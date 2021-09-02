@@ -8,7 +8,7 @@ import csv
 import math
 from hrvanalysis import get_frequency_domain_features
 from sklearn.preprocessing import MinMaxScaler
-
+from scipy.stats import zscore
 
 
 # csv파일 불러와서 ppg_data로 반환
@@ -97,3 +97,29 @@ def cal_ppi(peak_x):
         ppi_x[i]= peak_x[i]
     #print(hrv)
     return ppi,ppi_x
+
+def local_NNI(windowsize,th, peaks_x, ppi):
+    i = peaks_x[0]
+    nni=ppi.copy()
+    while (i <= peaks_x[-1]):
+        start_idx = np.where(peaks_x >= i)
+        end_idx = np.where(peaks_x <= i + windowsize)
+
+        start = start_idx[0][0]
+        end = end_idx[0][-1]
+        #print("start-end", start, end)
+        nni_part = nni[start:end + 1]
+        #nni_part[abs(zscore(nni[start:end + 1])) > th]=np.median(nni)
+        idx=np.where(abs(zscore(nni[start:end + 1])) > th)
+        if len(idx[0])>0 :
+            for x in idx[0]:
+                if x==0:
+                    nni_part[x]=(nni_part[x]+nni_part[x+1])/2
+                elif x+1>=len(nni_part):
+                    nni_part[x]=(nni_part[x-1]+nni_part[x])/2
+                else:
+                    nni_part[x]=(nni_part[x-1]+nni_part[x+1])/2
+        nni[start:end + 1] = nni_part
+        i = i + windowsize
+
+    return nni

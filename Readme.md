@@ -46,7 +46,6 @@
 |HF|ms|고주파|0.15-0.4Hz|
 |LF/HF|-|저주파, 고주파 파워의 비율|-|
 
-- [for mor detail about HRV analysis method]() 
 
 ## Code inform
 - utils.py : 데이터 전처리 및 ppi 계산 등 필요한 함수를 구현해놓은 python file
@@ -55,6 +54,7 @@
 - variable_sampling_rate.ipynb : sr이 가변적인 rppg의 신호를 불러와 시간정보에 맞추어 초당 sr을 추출하여 그룹화한다.
 - hrv_analysis.ipynb : 추출한 PPG신호들을 불러와 전처리과정 수행, HRV계산 , rppg와 cppg의 결과를 비교하는 main파일이다.
 - error_rate.ipynb : MAPE를 구하는 과정
+
 ## Protocol
 
 <p align="center"><img src="https://user-images.githubusercontent.com/70633080/147058214-6c76e625-7f1e-4694-9d24-46424cd87af3.png" weight="30%" height="30%">
@@ -130,12 +130,19 @@
 - HRV 분석 feature들의 상관계수가 약 0.97~1.00
 - RPPG를 이용한 HRV가 CPPG를 이용한 HRV 수준으로 수행 가능함을 확인
 
+## 알게된 점 
+1. RPPG 측정은 동잡음에 영향을 많이 받는다는 단점이 존재
+2. 신호와 혼합된 동잡음은 HRV 분석 성능에 영향을 미침
+3. 이는 데이터 개선처리 (ex> NNI extract)를 통해 성능 향상이 가능
+4. **RPPG를 이용한 비접촉식 HRV 분석이 기존 CPPG기반 HRV분석과 유사한 수준으로 수행 가능**
+    
 ## 관련 모듈
 ### 1. pyserial
 - serial port connection을 도와주는 모듈 
 - python으로 usb직렬포트에 연결된 장치를 동작시킬 수 있도록 한다.
 ### 2. Heartpy
 ### 3. Scipy.signal.find_peaks
+
 ## 참고문헌
 - http://www.vitalscan.kr/dt_hrv1_kr.htm
 - https://blog.orikami.nl/exploring-heart-rate-variability-using-python-483a7037c64d

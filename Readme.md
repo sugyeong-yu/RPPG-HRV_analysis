@@ -43,21 +43,25 @@
 - hrv_analysis.ipynb : 추출한 PPG신호들을 불러와 전처리과정 수행, HRV계산 , rppg와 cppg의 결과를 비교하는 main파일이다.
 - error_rate.ipynb : MAPE를 구하는 과정
 ## Protocol
-1. PPG 측정 (CPPG/RPPG)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/70633080/147058214-6c76e625-7f1e-4694-9d24-46424cd87af3.png" weight="30%" height="30%">
+
+1. PPG 측정 (CPPG/RPPG) : 11분 측정
     - cppg와 rppg의 시간 기록 및 맞춰주기
 2. Data shift
-    - Data 수 늘리기\
 3. 신호 전처리(동잡음 제거)
     - Interpolation(2차 spline) : 30 sr의 RPPG data를 255 sr의 CPPG data와 동일한 갯수가 되도록 보간
     - bandfass filtering (0.5Hz~2.0Hz)
 4. **Peak detection**
-5. Peak to Peak interval (PPI) 계산
-    - 이상값 제거 및 보간: zscore 2이상 > median값으로 대체
+5. Peak to Peak interval (PPI) 및 Normal to Normal interval 계산
+    - 이상값 제거 및 보간: zscore T 이상 > median값으로 대체
 6. PRV feature extract
     - Time domain feature
-    - Frequency domain feature
-        - 주파수 변환(FFT)
-        
+    - Frequency domain feature(FFT)
+
+
+
+
 ## Result
 
 <details>

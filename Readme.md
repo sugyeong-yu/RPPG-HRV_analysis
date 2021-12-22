@@ -9,7 +9,7 @@
 2. [Code inform](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#code-inform)
 3. [Protocol](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#protocol)
 4. [Result](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#result)
-5. [관련 모듈]()
+5. [관련 모듈](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#%EA%B4%80%EB%A0%A8-%EB%AA%A8%EB%93%88)
 6. [참고문헌]()
 
 ## HRV 란

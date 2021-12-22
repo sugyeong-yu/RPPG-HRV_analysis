@@ -71,6 +71,7 @@
 
 ### Error_MAPE
 - MAPE(평균 절대 오차 퍼센트): 유사도를 오차의 백분율로 나타내는 지표
+
 [PPI 사용]
 |Subject|MeanNN|SDNN|LFnu|HFnu|LF/HF Ratio|
 |------|---|---|---|---|---|

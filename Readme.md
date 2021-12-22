@@ -5,7 +5,7 @@
 - "원격 광용적맥파 측정을 이용한 비접촉 심박 변이도 분석 장치 및 방법", 국내특허출원 (출원번호: 10-2021-0125000, 출원일: 2021.10.22), 발명자(이의철, 유수경), 출원인(상명대학교산학협력단)
 
 ## 목차
-1. [HRV 개념]()
+1. [HRV 개념](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#hrv-%EB%9E%80)
 2. [Code inform]()
 3. [Protocol]()
 4. [Result]()

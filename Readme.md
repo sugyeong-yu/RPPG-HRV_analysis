@@ -70,7 +70,7 @@
     
 
 ### Error_MAPE
-- MAPE: MAE를 percentage로 나타낸 오류
+- MAPE(평균 절대 오차 퍼센트): 유사도를 오차의 백분율로 나타내는 지표
 
 |Subject|LFnu|HFnu|LF/HF Ratio|
 |------|---|---|---|

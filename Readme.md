@@ -109,8 +109,14 @@
     
 ### 상관 계수
 #### 1. 두 PPG의 NNI 간의 상관계수
-#### 2. 두 PPG의 HRV features 간의 
-    
+![image](https://user-images.githubusercontent.com/70633080/147082857-a8df7950-e139-4317-a622-ed0a01bb1f62.png)
+
+#### 2. 두 PPG의 HRV features 간의 상관계수 
+![image](https://user-images.githubusercontent.com/70633080/147083224-fcce692a-7ba6-4ec3-8fa4-ef0b4c925f5e.png)
+
+- HRV 분석 feature들의 상관계수가 약 0.97~1.00
+- RPPG를 이용한 HRV가 CPPG를 이용한 HRV 수준으로 수행 가능함을 확인
+
 ## 관련 모듈
 ### 1. pyserial
 - serial port connection을 도와주는 모듈 

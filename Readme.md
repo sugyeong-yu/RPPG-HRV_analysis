@@ -1,5 +1,16 @@
 # HRV analysis using remote PPG
 비접촉식 PPG(RPPG) 측정 기술을 이용하여 원격으로 HRV를 분석한다.
+## 관련 실적
+- [Yu, S. G., Kim, S. E., Kim, N. H., Suh, K. H., & Lee, E. C. (2021). Pulse Rate Variability Analysis Using Remote Photoplethysmography Signals. Sensors, 21(18), 6241.](https://www.mdpi.com/1424-8220/21/18/6241)
+- "원격 광용적맥파 측정을 이용한 비접촉 심박 변이도 분석 장치 및 방법", 국내특허출원 (출원번호: 10-2021-0125000, 출원일: 2021.10.22), 발명자(이의철, 유수경), 출원인(상명대학교산학협력단)
+
+## 목차
+1. [HRV 개념]()
+2. [Code inform]()
+3. [Protocol]()
+4. [Result]()
+5. [관련 모듈]()
+6. [참고문헌]()
 
 ## HRV 란
 - HRV분석은 동방절 수준의 교감-미주신경 균형평가의 간단하고 비침습성 방법으로 주목받고있다.

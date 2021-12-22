@@ -6,7 +6,7 @@
 
 ## 목차
 1. [HRV 개념](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#hrv-%EB%9E%80)
-2. [Code inform]()
+2. [Code inform](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#code-inform)
 3. [Protocol]()
 4. [Result]()
 5. [관련 모듈]()

@@ -10,7 +10,7 @@
 3. [Protocol](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#protocol)
 4. [Result](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#result)
 5. [관련 모듈](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#%EA%B4%80%EB%A0%A8-%EB%AA%A8%EB%93%88)
-6. [참고문헌]()
+6. [참고문헌](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/Readme.md#%EC%B0%B8%EA%B3%A0%EB%AC%B8%ED%97%8C)
 
 ## HRV 란
 - HRV분석은 동방절 수준의 교감-미주신경 균형평가의 간단하고 비침습성 방법으로 주목받고있다.

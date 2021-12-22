@@ -59,7 +59,7 @@
     - Time domain feature
     - Frequency domain feature(FFT)
 
-
+[for more detail](https://github.com/sugyeong-yu/RPPG-HRV_analysis/blob/main/HRV_concepts.md)
 
 
 ## Result

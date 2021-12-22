@@ -46,6 +46,8 @@
 |HF|ms|고주파|0.15-0.4Hz|
 |LF/HF|-|저주파, 고주파 파워의 비율|-|
 
+- [for mor detail about HRV analysis method]() 
+
 ## Code inform
 - utils.py : 데이터 전처리 및 ppi 계산 등 필요한 함수를 구현해놓은 python file
 - video.ipynb : 실시간 웹캠으로 얼굴 image를 촬영하는 동시에 접촉식ppg data를 실시간 시간과 함께 기록한다.
